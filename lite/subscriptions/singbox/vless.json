@@ -109,8 +109,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 33",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -147,11 +147,11 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇭🇰HK | 🟢 | vless | @VmessProtocol | 14",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 232",
-                "🇬🇧GB | 🔴 | vless | @DailyV2RY | 233",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 235",
+                "🇳🇱NL | 🔴 | vless | @DailyV2RY | 236",
                 "🇻🇳VN | 🔴 | vless | @fnet00 | 8",
+                "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 12",
-                "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
                 "🇱🇻LV | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 7",
@@ -175,8 +175,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 33",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -213,11 +213,11 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇭🇰HK | 🟢 | vless | @VmessProtocol | 14",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 232",
-                "🇬🇧GB | 🔴 | vless | @DailyV2RY | 233",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 235",
+                "🇳🇱NL | 🔴 | vless | @DailyV2RY | 236",
                 "🇻🇳VN | 🔴 | vless | @fnet00 | 8",
+                "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 12",
-                "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
                 "🇱🇻LV | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 7",
@@ -296,9 +296,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "54.73.93.126",
+            "server": "13.49.118.186",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -327,9 +327,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "54.229.70.49",
+            "server": "13.53.204.221",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1259,9 +1259,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 232",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 235",
             "type": "vless",
-            "server": "v15.blkrose.ir",
+            "server": "v03.blkrose.ir",
             "server_port": 2053,
             "uuid": "1fb52030-a522-4665-8a35-09b6710b062d",
             "flow": "xtls-rprx-vision",
@@ -1295,11 +1295,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @DailyV2RY | 233",
+            "tag": "🇳🇱NL | 🔴 | vless | @DailyV2RY | 236",
             "type": "vless",
-            "server": "64.176.182.133",
+            "server": "140.82.58.247",
             "server_port": 8080,
-            "uuid": "1c02b0f8-e0f7-4c94-8483-5ad1071706d5",
+            "uuid": "0703e49e-48f3-403b-b49c-400bc5d1ceb0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1311,7 +1311,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "64.176.182.133"
+                    "Host": "140.82.58.247"
                 }
             }
         },
@@ -1345,6 +1345,30 @@
             }
         },
         {
+            "tag": "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11",
+            "type": "vless",
+            "server": "195.181.166.87",
+            "server_port": 8443,
+            "uuid": "157448af-8ecf-4075-a9e9-b23a6a94899b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "se1.fromblancwithlove.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "79.127.224.12",
@@ -1365,35 +1389,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
-            "type": "vless",
-            "server": "sg04.ssr.ee",
-            "server_port": 55560,
-            "uuid": "9d0a75d2-f747-4afa-b43f-d208af9e8f9a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "itunes.apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Dvv84goWLMnFoZWWLI8xtEErCIao_XnzXUVz9ryVSAU",
-                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },
