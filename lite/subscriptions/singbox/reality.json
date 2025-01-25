@@ -106,12 +106,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🟢 | vless | @proxy_kafee | 4",
+                "🇸🇪SE | 🟢 | vless | @proxy_kafee | 5",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇭🇰HK | 🟢 | vless | @VmessProtocol | 14",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇻🇳VN | 🔴 | vless | @fnet00 | 8",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇫🇷FR | 🟢 | vless | @mehrosaboran | 10",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 11",
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 4",
@@ -124,12 +123,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🟢 | vless | @proxy_kafee | 4",
+                "🇸🇪SE | 🟢 | vless | @proxy_kafee | 5",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇭🇰HK | 🟢 | vless | @VmessProtocol | 14",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇻🇳VN | 🔴 | vless | @fnet00 | 8",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇫🇷FR | 🟢 | vless | @mehrosaboran | 10",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 11",
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 4",
@@ -158,7 +156,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vless | @proxy_kafee | 4",
+            "tag": "🇸🇪SE | 🟢 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "Wedbaz-Sweden.zpowerio.ir",
             "server_port": 443,
@@ -299,35 +297,6 @@
                     "enabled": true,
                     "public_key": "g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
-            "type": "vless",
-            "server": "us01.ssr.ee",
-            "server_port": 443,
-            "uuid": "9d0a75d2-f747-4afa-b43f-d208af9e8f9a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "itunes.apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0",
-                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },
