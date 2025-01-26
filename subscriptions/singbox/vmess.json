@@ -116,7 +116,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 11",
+                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🇫🇷FR | 🟢 | vmess | @customv2ray | 9",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 2",
@@ -157,7 +157,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 11",
+                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🇫🇷FR | 🟢 | vmess | @customv2ray | 9",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 2",
@@ -374,7 +374,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 11",
+            "tag": "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 12",
             "type": "vmess",
             "server": "beyonddbc.sbs",
             "server_port": 443,
