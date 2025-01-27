@@ -117,7 +117,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 12",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 118",
+                "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 14",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 15",
@@ -156,7 +156,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 12",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 118",
+                "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 14",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 15",
@@ -404,7 +404,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 118",
+            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
             "type": "vmess",
             "server": "104.19.150.10",
             "server_port": 2095,
