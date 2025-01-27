@@ -130,25 +130,24 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 0",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 1",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 2",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 2",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 3",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 4",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 4",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 5",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 6",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 6",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 7",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 8",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 8",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 9",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 10",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 11",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 12",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 13",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 14",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 14",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 2",
@@ -224,44 +223,42 @@
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 0",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 1",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 2",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 2",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 3",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 4",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 4",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 5",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 6",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 6",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 7",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 8",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 8",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 9",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 10",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 10",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 11",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 12",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 14",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 14",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 17",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 0",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 1",
+                "🇺🇸US | 🟢 | trojan | @DirectVPN | 1",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 2",
-                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 3",
+                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 3",
                 "🇮🇪IE | 🟢 | trojan | @DirectVPN | 4",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 5",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 5",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 6",
-                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 7",
+                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 7",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 8",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 9",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 9",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 10",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 11",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 11",
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 12",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 13",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 13",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 14",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 15",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 17",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 1",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 2",
@@ -276,7 +273,7 @@
                 "🚩CF | 🔴 | vless | @prrofile_purple | 111",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 112",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 113",
-                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 114",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 114",
                 "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 116",
                 "❔XX | 🔴 | vless | @prrofile_purple | 117",
@@ -312,7 +309,7 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
-                "🇨🇦CA | 🟢 | vmess | @customv2ray | 8",
+                "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 1",
@@ -382,7 +379,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 23",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 25",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 26",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 26",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 27",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 28",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 29",
@@ -442,40 +439,39 @@
                 "❔XX | 🟢 | ss | @VmessProtocol | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
                 "🇭🇰HK | 🟢 | trojan | @VmessProtocol | 13",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 301",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 302",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 303",
-                "🇨🇳CN | 🔴 | vless | @DailyV2RY | 304",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇬🇧GB | 🔴 | vless | @DailyV2RY | 306",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
-                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 308",
-                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 309",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 310",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 311",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 312",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 313",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 314",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 319",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 320",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 322",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 301",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
+                "🇫🇷FR | 🔴 | vless | @DailyV2RY | 304",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 305",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 306",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 307",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 308",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 309",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 310",
+                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 311",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 313",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 315",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 316",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 317",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 318",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 319",
+                "🇨🇳CN | 🔴 | vless | @DailyV2RY | 320",
+                "🇬🇧GB | 🔴 | vless | @DailyV2RY | 322",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
-                "🇮🇱IL | 🔴 | vless | @DailyV2RY | 324",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 325",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 326",
+                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 324",
+                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 325",
                 "🇫🇷FR | 🟢 | vless | @DailyV2RY | 327",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 328",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 329",
-                "🇵🇱PL | 🔴 | vless | @DailyV2RY | 330",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 332",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 333",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 334",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 335",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 336",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 328",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 329",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 335",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 336",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 339",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 340",
+                "🇮🇱IL | 🔴 | vless | @DailyV2RY | 340",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -599,25 +595,24 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 0",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 1",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 2",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 2",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 3",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 4",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 4",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 5",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 6",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 6",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 7",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 8",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 8",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 9",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 10",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 11",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 12",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 13",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 14",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 14",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 2",
@@ -693,44 +688,42 @@
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 0",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 1",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 2",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 2",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 3",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 4",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 4",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 5",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 6",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 6",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 7",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 8",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 8",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 9",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 10",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 10",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 11",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 12",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 14",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 14",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 17",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 0",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 1",
+                "🇺🇸US | 🟢 | trojan | @DirectVPN | 1",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 2",
-                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 3",
+                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 3",
                 "🇮🇪IE | 🟢 | trojan | @DirectVPN | 4",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 5",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 5",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 6",
-                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 7",
+                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 7",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 8",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 9",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 9",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 10",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 11",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 11",
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 12",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 13",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 13",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 14",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 15",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 17",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 1",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 2",
@@ -745,7 +738,7 @@
                 "🚩CF | 🔴 | vless | @prrofile_purple | 111",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 112",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 113",
-                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 114",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 114",
                 "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 116",
                 "❔XX | 🔴 | vless | @prrofile_purple | 117",
@@ -781,7 +774,7 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
-                "🇨🇦CA | 🟢 | vmess | @customv2ray | 8",
+                "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
                 "🇷🇺RU | 🟢 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 1",
@@ -851,7 +844,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 23",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 25",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 26",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 26",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 27",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 28",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 29",
@@ -911,40 +904,39 @@
                 "❔XX | 🟢 | ss | @VmessProtocol | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
                 "🇭🇰HK | 🟢 | trojan | @VmessProtocol | 13",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 301",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 302",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 303",
-                "🇨🇳CN | 🔴 | vless | @DailyV2RY | 304",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇬🇧GB | 🔴 | vless | @DailyV2RY | 306",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
-                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 308",
-                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 309",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 310",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 311",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 312",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 313",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 314",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 319",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 320",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 322",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 301",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
+                "🇫🇷FR | 🔴 | vless | @DailyV2RY | 304",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 305",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 306",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 307",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 308",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 309",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 310",
+                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 311",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 313",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 315",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 316",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 317",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 318",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 319",
+                "🇨🇳CN | 🔴 | vless | @DailyV2RY | 320",
+                "🇬🇧GB | 🔴 | vless | @DailyV2RY | 322",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
-                "🇮🇱IL | 🔴 | vless | @DailyV2RY | 324",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 325",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 326",
+                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 324",
+                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 325",
                 "🇫🇷FR | 🟢 | vless | @DailyV2RY | 327",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 328",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 329",
-                "🇵🇱PL | 🔴 | vless | @DailyV2RY | 330",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 332",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 333",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 334",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 335",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 336",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 328",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 329",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 335",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 336",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 339",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 340",
+                "🇮🇱IL | 🔴 | vless | @DailyV2RY | 340",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -1529,9 +1521,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 0",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
             "type": "vless",
-            "server": "15.156.154.249",
+            "server": "13.39.72.150",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1562,7 +1554,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 1",
             "type": "vless",
-            "server": "3.98.155.57",
+            "server": "15.156.154.249",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1591,9 +1583,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 2",
             "type": "vless",
-            "server": "52.23.120.14",
+            "server": "3.98.155.57",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1624,7 +1616,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 3",
             "type": "vless",
-            "server": "13.216.44.34",
+            "server": "52.23.120.14",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1653,9 +1645,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 4",
             "type": "vless",
-            "server": "52.212.37.119",
+            "server": "13.216.44.34",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1686,7 +1678,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 5",
             "type": "vless",
-            "server": "18.203.9.102",
+            "server": "52.212.37.119",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1715,9 +1707,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 6",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 6",
             "type": "vless",
-            "server": "18.169.86.87",
+            "server": "18.203.9.102",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1748,7 +1740,7 @@
         {
             "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 7",
             "type": "vless",
-            "server": "3.9.225.132",
+            "server": "18.169.86.87",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1777,9 +1769,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 8",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 8",
             "type": "vless",
-            "server": "13.39.205.16",
+            "server": "3.9.225.132",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1810,7 +1802,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 9",
             "type": "vless",
-            "server": "51.44.40.6",
+            "server": "13.39.205.16",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1839,9 +1831,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 10",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 10",
             "type": "vless",
-            "server": "3.67.129.138",
+            "server": "51.44.40.6",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1872,7 +1864,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 11",
             "type": "vless",
-            "server": "63.177.198.235",
+            "server": "3.67.129.138",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1901,9 +1893,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 12",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "16.16.101.254",
+            "server": "63.177.198.235",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1934,7 +1926,7 @@
         {
             "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "13.61.221.137",
+            "server": "16.16.101.254",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1963,9 +1955,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 14",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "34.243.124.78",
+            "server": "13.61.221.137",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1996,7 +1988,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "34.249.60.40",
+            "server": "34.243.124.78",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2025,9 +2017,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "3.9.2.83",
+            "server": "34.249.60.40",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2058,38 +2050,7 @@
         {
             "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "35.178.0.116",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-            "type": "vless",
-            "server": "15.236.54.141",
+            "server": "3.9.2.83",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -4110,9 +4071,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 0",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
             "type": "trojan",
-            "server": "18.199.231.219",
+            "server": "15.188.190.21",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4134,7 +4095,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 1",
             "type": "trojan",
-            "server": "18.193.200.70",
+            "server": "18.199.231.219",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4154,9 +4115,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 2",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 2",
             "type": "trojan",
-            "server": "13.48.100.237",
+            "server": "18.193.200.70",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4178,7 +4139,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 3",
             "type": "trojan",
-            "server": "13.61.233.32",
+            "server": "13.48.100.237",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4198,9 +4159,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 4",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 4",
             "type": "trojan",
-            "server": "52.50.45.247",
+            "server": "13.61.233.32",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4222,7 +4183,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 5",
             "type": "trojan",
-            "server": "54.76.171.171",
+            "server": "52.50.45.247",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4242,9 +4203,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 6",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 6",
             "type": "trojan",
-            "server": "3.11.87.196",
+            "server": "54.76.171.171",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4266,7 +4227,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 7",
             "type": "trojan",
-            "server": "18.135.113.254",
+            "server": "3.11.87.196",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4286,9 +4247,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 8",
+            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 8",
             "type": "trojan",
-            "server": "15.237.207.218",
+            "server": "18.135.113.254",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4310,7 +4271,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 9",
             "type": "trojan",
-            "server": "35.181.102.172",
+            "server": "15.237.207.218",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4330,9 +4291,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 10",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 10",
             "type": "trojan",
-            "server": "63.177.131.131",
+            "server": "35.181.102.172",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4354,7 +4315,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 11",
             "type": "trojan",
-            "server": "52.29.15.218",
+            "server": "63.177.131.131",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4374,9 +4335,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 12",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12",
             "type": "trojan",
-            "server": "51.20.205.194",
+            "server": "52.29.15.218",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4398,7 +4359,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13",
             "type": "trojan",
-            "server": "51.20.21.44",
+            "server": "51.20.205.194",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4418,9 +4379,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 14",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 14",
             "type": "trojan",
-            "server": "52.215.106.162",
+            "server": "51.20.21.44",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4442,7 +4403,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "54.72.254.48",
+            "server": "52.215.106.162",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4462,9 +4423,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "13.42.74.101",
+            "server": "54.72.254.48",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4486,29 +4447,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 17",
             "type": "trojan",
-            "server": "35.179.201.133",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18",
-            "type": "trojan",
-            "server": "13.38.205.170",
+            "server": "13.42.74.101",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -4530,7 +4469,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 0",
             "type": "trojan",
-            "server": "3.148.15.49",
+            "server": "3.12.254.217",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4550,9 +4489,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 1",
+            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 1",
             "type": "trojan",
-            "server": "15.156.51.199",
+            "server": "3.148.15.49",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4574,7 +4513,7 @@
         {
             "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 2",
             "type": "trojan",
-            "server": "3.98.159.117",
+            "server": "15.156.51.199",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4594,9 +4533,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 3",
+            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 3",
             "type": "trojan",
-            "server": "52.31.23.253",
+            "server": "3.98.159.117",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4618,7 +4557,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 4",
             "type": "trojan",
-            "server": "52.16.25.179",
+            "server": "52.31.23.253",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4638,9 +4577,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 5",
+            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 5",
             "type": "trojan",
-            "server": "18.171.119.217",
+            "server": "52.16.25.179",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4662,7 +4601,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 6",
             "type": "trojan",
-            "server": "13.42.204.115",
+            "server": "18.171.119.217",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4682,9 +4621,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 7",
+            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 7",
             "type": "trojan",
-            "server": "35.181.231.201",
+            "server": "13.42.204.115",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4706,7 +4645,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 8",
             "type": "trojan",
-            "server": "15.237.155.178",
+            "server": "35.181.231.201",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4726,9 +4665,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 9",
+            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 9",
             "type": "trojan",
-            "server": "13.49.20.133",
+            "server": "15.237.155.178",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4750,7 +4689,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 10",
             "type": "trojan",
-            "server": "13.60.113.79",
+            "server": "13.49.20.133",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4770,9 +4709,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 11",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 11",
             "type": "trojan",
-            "server": "3.77.135.77",
+            "server": "13.60.113.79",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4794,7 +4733,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 12",
             "type": "trojan",
-            "server": "63.177.164.55",
+            "server": "3.77.135.77",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4814,9 +4753,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 13",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 13",
             "type": "trojan",
-            "server": "16.170.83.77",
+            "server": "63.177.164.55",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4838,7 +4777,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 14",
             "type": "trojan",
-            "server": "13.61.220.66",
+            "server": "16.170.83.77",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4858,9 +4797,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "44.223.178.42",
+            "server": "13.61.220.66",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4882,7 +4821,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "3.23.207.118",
+            "server": "44.223.178.42",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4904,29 +4843,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 17",
             "type": "trojan",
-            "server": "3.138.75.159",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 18",
-            "type": "trojan",
-            "server": "15.156.99.158",
+            "server": "3.23.207.118",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -5234,7 +5151,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @prrofile_purple | 114",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 114",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -6066,7 +5983,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @customv2ray | 8",
+            "tag": "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
             "type": "vmess",
             "server": "s1.datasheetserver.com",
             "server_port": 443,
@@ -7780,7 +7697,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 26",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 26",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -9410,98 +9327,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 301",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 301",
             "type": "vless",
-            "server": "44.245.171.244",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 302",
-            "type": "vless",
-            "server": "35.92.50.243",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 303",
-            "type": "vless",
-            "server": "35.87.199.98",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇳CN | 🔴 | vless | @DailyV2RY | 304",
-            "type": "vless",
-            "server": "sp.apitechmaster.tech",
+            "server": "js.apitechmaster.tech",
             "server_port": 443,
-            "uuid": "95ebc95a-e437-49ad-b1e5-26936d2b8682",
+            "uuid": "cc6b985d-0362-4129-8763-38564174fb3e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -9511,7 +9341,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "qukmcxnbs.wwtraveler.com",
+                "server_name": "iryiccyne.wwtraveler.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -9528,7 +9358,206 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
+            "type": "vless",
+            "server": "cash.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "c2fd1d14-23f6-4688-9482-6a39d38d366a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "dksuwx.billionaire33.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wss",
+                "headers": {
+                    "Host": "dksuwx.billionaire33.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
+            "type": "vless",
+            "server": "jermaine.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "c05aa4fb-f640-4571-afe6-5c14ab7fbf1e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "rjglgm.rionapps.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wss",
+                "headers": {
+                    "Host": "rjglgm.rionapps.com"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🔴 | vless | @DailyV2RY | 304",
+            "type": "vless",
+            "server": "v21.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "bb04da46-54ef-401a-920f-6738f0b64a76",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 305",
+            "type": "vless",
+            "server": "v12.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "bb04da46-54ef-401a-920f-6738f0b64a76",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 306",
+            "type": "vless",
+            "server": "v08.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "bb04da46-54ef-401a-920f-6738f0b64a76",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 307",
+            "type": "vless",
+            "server": "159.65.41.20",
+            "server_port": 443,
+            "uuid": "9fe18311-c643-43fa-8a02-5af77431a3ce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "e2GwFM_a0jVeaDb777MATpmxKqr7Sucqs9T-p5h4Yws",
+                    "short_id": "1dfaacce2190ee"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 308",
             "type": "vless",
             "server": "a11.kiodent.ir",
             "server_port": 2053,
@@ -9542,32 +9571,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @DailyV2RY | 306",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 309",
             "type": "vless",
-            "server": "64.176.179.28",
-            "server_port": 8080,
-            "uuid": "0c21461b-a34c-4ba3-bf7a-00f56077aec0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "64.176.179.28"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
-            "type": "vless",
-            "server": "wear.net",
+            "server": "live.skornorth.com",
             "server_port": 443,
-            "uuid": "046fd332-80a6-43b0-91b0-7238a1dfc36c",
+            "uuid": "5150600b-d270-4be8-8d78-c5784d3c093b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -9577,7 +9585,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "wear.net",
+                "server_name": "live.skornorth.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -9589,14 +9597,43 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wear.net"
+                    "Host": "live.skornorth.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @DailyV2RY | 308",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 310",
+            "type": "vless",
+            "server": "159.65.45.22",
+            "server_port": 443,
+            "uuid": "322550e3-eb60-428c-8702-33fe8ee9bf9e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xpowIXhk1fHJGVcpdK42XimKjV0Xz_063a3vGd4NTz4",
+                    "short_id": "1e50d63d46"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @DailyV2RY | 311",
             "type": "vmess",
-            "server": "96.30.194.133",
+            "server": "45.32.215.152",
             "server_port": 8881,
             "uuid": "db5afae4-ac23-41a6-8378-f307a9a47436",
             "security": "auto",
@@ -9611,28 +9648,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @DailyV2RY | 309",
-            "type": "vless",
-            "server": "16.170.143.58",
-            "server_port": 43470,
-            "uuid": "d988c5de-e423-4465-e77c-61d686f603f7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "16.170.143.58"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 310",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
             "type": "vless",
             "server": "angelina.ns.cloudflare.com",
             "server_port": 443,
@@ -9663,7 +9679,311 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 311",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 313",
+            "type": "vless",
+            "server": "chloe.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "bf4c0c78-2f3b-4f25-a56f-c9188c1f96c2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "n8jx88.fivegravity.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wss",
+                "headers": {
+                    "Host": "n8jx88.fivegravity.com"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 315",
+            "type": "vless",
+            "server": "v06.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "bb04da46-54ef-401a-920f-6738f0b64a76",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 316",
+            "type": "vless",
+            "server": "134.209.175.76",
+            "server_port": 443,
+            "uuid": "b34e6def-e72b-418d-adcd-dd311c87a01c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fMsqSNEAALhc2KljXeyqI65JPOqnfQqtQOdQeS1JY2s",
+                    "short_id": "a53e917dce61c9"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 317",
+            "type": "vless",
+            "server": "44.245.171.244",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 318",
+            "type": "vless",
+            "server": "35.92.50.243",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 319",
+            "type": "vless",
+            "server": "35.87.199.98",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🔴 | vless | @DailyV2RY | 320",
+            "type": "vless",
+            "server": "sp.apitechmaster.tech",
+            "server_port": 443,
+            "uuid": "95ebc95a-e437-49ad-b1e5-26936d2b8682",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "qukmcxnbs.wwtraveler.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "michi",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🔴 | vless | @DailyV2RY | 322",
+            "type": "vless",
+            "server": "64.176.179.28",
+            "server_port": 8080,
+            "uuid": "0c21461b-a34c-4ba3-bf7a-00f56077aec0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "64.176.179.28"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
+            "type": "vless",
+            "server": "wear.net",
+            "server_port": 443,
+            "uuid": "046fd332-80a6-43b0-91b0-7238a1dfc36c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wear.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wear.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @DailyV2RY | 324",
+            "type": "vmess",
+            "server": "96.30.194.133",
+            "server_port": 8881,
+            "uuid": "db5afae4-ac23-41a6-8378-f307a9a47436",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @DailyV2RY | 325",
+            "type": "vless",
+            "server": "16.170.143.58",
+            "server_port": 43470,
+            "uuid": "d988c5de-e423-4465-e77c-61d686f603f7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "16.170.143.58"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 327",
             "type": "vless",
             "server": "v29.blkrose.ir",
             "server_port": 2053,
@@ -9699,7 +10019,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 312",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 328",
             "type": "vless",
             "server": "v17.blkrose.ir",
             "server_port": 2053,
@@ -9735,7 +10055,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 313",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 329",
             "type": "vless",
             "server": "68.183.49.88",
             "server_port": 443,
@@ -9764,7 +10084,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 314",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
             "type": "vless",
             "server": "chloe.ns.cloudflare.com",
             "server_port": 443,
@@ -9795,7 +10115,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
             "type": "vless",
             "server": "live.skornorth.com",
             "server_port": 443,
@@ -9826,7 +10146,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 319",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 335",
             "type": "vless",
             "server": "v22.blkrose.ir",
             "server_port": 2053,
@@ -9862,7 +10182,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 320",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 336",
             "type": "vless",
             "server": "v19.blkrose.ir",
             "server_port": 2053,
@@ -9898,7 +10218,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 322",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
             "type": "vless",
             "server": "chloe.ns.cloudflare.com",
             "server_port": 443,
@@ -9929,7 +10249,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 339",
             "type": "vless",
             "server": "angelina.ns.cloudflare.com",
             "server_port": 443,
@@ -9960,7 +10280,7 @@
             }
         },
         {
-            "tag": "🇮🇱IL | 🔴 | vless | @DailyV2RY | 324",
+            "tag": "🇮🇱IL | 🔴 | vless | @DailyV2RY | 340",
             "type": "vless",
             "server": "64.176.171.23",
             "server_port": 8080,
@@ -9977,433 +10297,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "64.176.171.23"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 325",
-            "type": "vless",
-            "server": "v21.blkrose.ir",
-            "server_port": 2053,
-            "uuid": "e6d7cd47-230c-4c80-8628-7ecaa3d4de43",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
-                    "short_id": "5640288dca4f8519"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2053vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 326",
-            "type": "vless",
-            "server": "v11.blkrose.ir",
-            "server_port": 2053,
-            "uuid": "e6d7cd47-230c-4c80-8628-7ecaa3d4de43",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
-                    "short_id": "5640288dca4f8519"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2053vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 327",
-            "type": "vless",
-            "server": "v10.blkrose.ir",
-            "server_port": 2053,
-            "uuid": "e6d7cd47-230c-4c80-8628-7ecaa3d4de43",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
-                    "short_id": "5640288dca4f8519"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2053vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 328",
-            "type": "vless",
-            "server": "159.203.110.227",
-            "server_port": 443,
-            "uuid": "d8aaed3b-de16-43f1-b7f7-a412dac70cd5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9rU53b2HNIqi2ghb1cwpGSHuyMVlsqpZ2DWU4FrDMFY",
-                    "short_id": "ff462900f338d459"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 329",
-            "type": "vless",
-            "server": "chloe.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "bf4c0c78-2f3b-4f25-a56f-c9188c1f96c2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "n8jx88.fivegravity.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wss",
-                "headers": {
-                    "Host": "n8jx88.fivegravity.com"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱PL | 🔴 | vless | @DailyV2RY | 330",
-            "type": "vless",
-            "server": "70.34.252.26",
-            "server_port": 8080,
-            "uuid": "bd4ceffd-b811-4fab-d586-1fc2ce90316d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "70.34.252.26"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 332",
-            "type": "vless",
-            "server": "54.167.227.77",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 333",
-            "type": "vless",
-            "server": "54.166.186.81",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 334",
-            "type": "vless",
-            "server": "52.206.241.158",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 335",
-            "type": "vless",
-            "server": "18.234.252.18",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 336",
-            "type": "vless",
-            "server": "ip.payexaye.my",
-            "server_port": 8443,
-            "uuid": "96a1b724-68d2-4f4d-ab25-38ecd83577bc",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
-            "type": "vless",
-            "server": "jermaine.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "375698c5-66a1-47e7-b5a6-e27516efe5ef",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "6z69te.alligator27app.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wss",
-                "headers": {
-                    "Host": "6z69te.alligator27app.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 339",
-            "type": "vless",
-            "server": "angelina.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "0e952311-8116-451a-8de2-07e43a14f7ef",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wlm8hd.kalastore.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wss",
-                "headers": {
-                    "Host": "wlm8hd.kalastore.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 340",
-            "type": "vless",
-            "server": "68.183.144.79",
-            "server_port": 443,
-            "uuid": "094e8cab-a8e3-424b-988c-dd5b6c1f6d17",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fsqDRTi6bzbOYz3vQc_Oj397SIZtq3hGFRxAIePREBc",
-                    "short_id": "a48836c9c9"
                 }
             }
         },
