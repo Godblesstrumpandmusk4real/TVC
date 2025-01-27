@@ -117,8 +117,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 126",
-                "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
+                "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
+                "🇨🇦CA | 🟢 | vmess | @customv2ray | 8",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 10",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 25",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 26",
@@ -155,8 +155,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 126",
-                "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
+                "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
+                "🇨🇦CA | 🟢 | vmess | @customv2ray | 8",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 10",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 25",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 26",
@@ -402,7 +402,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 126",
+            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 115",
             "type": "vmess",
             "server": "104.19.150.10",
             "server_port": 2095,
@@ -419,7 +419,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @customv2ray | 8",
+            "tag": "🇨🇦CA | 🟢 | vmess | @customv2ray | 8",
             "type": "vmess",
             "server": "s1.datasheetserver.com",
             "server_port": 443,
