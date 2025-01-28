@@ -1004,15 +1004,6 @@
             "title": null,
             "logo": null
         },
-        "type": "reality",
-        "config": "vless:\/\/bb04da46-54ef-401a-920f-6738f0b64a76@57.128.160.167:2053?security=reality&encryption=none&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#🇬🇧GB%20|%20🟢%20|%20vless%20|%20@proxy_kafee%20|%204"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
         "type": "vless",
         "config": "vless:\/\/telegram-id-ArV2ray@zula.ir:2087?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Vh.bahrane.ir&fp=firefox&type=ws&sni=Vh.bahrane.ir#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2logy%20|%200"
     },
@@ -2148,6 +2139,24 @@
             "logo": null
         },
         "type": "vless",
+        "config": "vless:\/\/25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F&security=tls&encryption=none&host=magdl.ir&type=ws&sni=anchor.fm#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ShadowProxy66%20|%203"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.183:8443?path=%2F&security=tls&encryption=none&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ShadowProxy66%20|%204"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
         "config": "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.116:8443?path=%2F&security=tls&encryption=none&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ShadowProxy66%20|%205"
     },
     {
@@ -2464,15 +2473,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/d5a593c2-d77c-4710-ac7c-503888648abd@chloe.ns.cloudflare.com:443?path=%2Fwss&security=tls&encryption=none&alpn=http%2F1.1&host=bmg5go.fivegravity.com&type=ws&sni=bmg5go.fivegravity.com#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ShadowProxy66%20|%2041"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "reality",
-        "config": "vless:\/\/bb04da46-54ef-401a-920f-6738f0b64a76@v04.blkrose.ir:2053?mode=gun&security=reality&encryption=none&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#🇫🇷FR%20|%20🔴%20|%20vless%20|%20@ShadowProxy66%20|%2044"
     },
     {
         "channel": {
@@ -3769,15 +3769,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/ed1baf3b-f38f-559a-86c5-53b3c3492ce1@45.159.249.213:2052?path=%2Fvless%23telegram%40v2ray_alpha&security=none&encryption=none&type=ws#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@89.187.174.104:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#🇳🇱NL%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%2011"
     },
     {
         "channel": {
