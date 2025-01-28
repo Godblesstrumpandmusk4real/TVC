@@ -159,8 +159,8 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇭🇰HK | 🔴 | vless | @fnet00 | 8",
                 "🇭🇰HK | 🔴 | vless | @fnet00 | 9",
-                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 1",
-                "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 2",
+                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
+                "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -240,8 +240,8 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇭🇰HK | 🔴 | vless | @fnet00 | 8",
                 "🇭🇰HK | 🔴 | vless | @fnet00 | 9",
-                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 1",
-                "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 2",
+                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
+                "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -1912,7 +1912,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 1",
+            "tag": "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
             "type": "vless",
             "server": "171.22.120.155",
             "server_port": 443,
@@ -1941,7 +1941,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 2",
+            "tag": "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "147.45.126.221",
             "server_port": 443,
