@@ -110,8 +110,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -151,7 +151,6 @@
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 13",
                 "🇭🇰HK | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8",
-                "telegram@v2ray_alpha&security=none&encryption=none&type=ws#🇫🇮FI | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 0",
                 "🇱🇻LV | 🔴 | vless | @FreakConfig | 1",
@@ -178,8 +177,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -219,7 +218,6 @@
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 13",
                 "🇭🇰HK | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8",
-                "telegram@v2ray_alpha&security=none&encryption=none&type=ws#🇫🇮FI | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 0",
                 "🇱🇻LV | 🔴 | vless | @FreakConfig | 1",
@@ -331,9 +329,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "18.134.203.236",
+            "server": "34.255.35.109",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -362,9 +360,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "35.180.224.132",
+            "server": "13.42.183.251",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1401,20 +1399,6 @@
                 "headers": {
                     "Host": "165.232.69.178"
                 }
-            }
-        },
-        {
-            "tag": "telegram@v2ray_alpha&security=none&encryption=none&type=ws#🇫🇮FI | 🔴 | vless | @Outlinev2rayNG | 9",
-            "type": "vless",
-            "server": "45.159.249.213",
-            "server_port": 2052,
-            "uuid": "ed1baf3b-f38f-559a-86c5-53b3c3492ce1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
