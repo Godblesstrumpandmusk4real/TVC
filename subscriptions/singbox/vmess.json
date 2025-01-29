@@ -117,7 +117,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🚩CF | 🟢 | vmess | @prrofile_purple | 139",
-                "🇫🇷FR | 🟢 | vmess | @customv2ray | 6",
+                "🇫🇷FR | 🟢 | vmess | @customv2ray | 11",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 15",
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -148,7 +148,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🚩CF | 🟢 | vmess | @prrofile_purple | 139",
-                "🇫🇷FR | 🟢 | vmess | @customv2ray | 6",
+                "🇫🇷FR | 🟢 | vmess | @customv2ray | 11",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 15",
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -371,7 +371,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @customv2ray | 6",
+            "tag": "🇫🇷FR | 🟢 | vmess | @customv2ray | 11",
             "type": "vmess",
             "server": "irvideo.cfd",
             "server_port": 443,
