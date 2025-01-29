@@ -171,7 +171,7 @@
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇦🇪AE | 🟢 | ss | @kingofilter | 14",
+                "🇳🇱NL | 🔴 | vless | @kingofilter | 13",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 12",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
@@ -247,7 +247,7 @@
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇦🇪AE | 🟢 | ss | @kingofilter | 14",
+                "🇳🇱NL | 🔴 | vless | @kingofilter | 13",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 12",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
@@ -1821,14 +1821,25 @@
             }
         },
         {
-            "tag": "🇦🇪AE | 🟢 | ss | @kingofilter | 14",
-            "type": "shadowsocks",
-            "server": "api.namasha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
-            "plugin": "",
-            "plugin_opts": ""
+            "tag": "🇳🇱NL | 🔴 | vless | @kingofilter | 13",
+            "type": "vless",
+            "server": "108.61.99.185",
+            "server_port": 8080,
+            "uuid": "f57fd500-ed58-43c9-984c-685fc25a369d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "108.61.99.185"
+                }
+            }
         },
         {
             "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 12",
