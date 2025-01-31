@@ -151,8 +151,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 350",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇫🇮FI | 🔴 | vless | @free1_vpn | 15",
@@ -224,8 +224,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 350",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇫🇮FI | 🔴 | vless | @free1_vpn | 15",
@@ -1349,11 +1349,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
-            "uuid": "0da84da8-51a6-4746-b536-8c0757fafe4f",
+            "uuid": "2a1c95c9-d504-4b70-8a8f-65f53ac4de96",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1370,11 +1370,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 350",
             "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "029b6907-0d15-4810-a683-eede2e919613",
+            "server": "angelina.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "0a8b9e1b-fab0-4b02-aee2-5606c482064e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1382,11 +1382,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "1qll9f.isfshzist.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/wss",
                 "headers": {
-                    "Host": "tgju.org"
+                    "Host": "1qll9f.isfshzist.com"
                 }
             }
         },
