@@ -116,8 +116,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 113",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 132",
+                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 121",
+                "🚩CF | 🟢 | vmess | @prrofile_purple | 140",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 3",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 5",
@@ -150,8 +150,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 113",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 132",
+                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 121",
+                "🚩CF | 🟢 | vmess | @prrofile_purple | 140",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 3",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 5",
@@ -360,7 +360,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @prrofile_purple | 113",
+            "tag": "🇺🇸US | 🟢 | vmess | @prrofile_purple | 121",
             "type": "vmess",
             "server": "biiia-vpn-whal.fast.hosting-ip.com",
             "server_port": 80,
@@ -384,7 +384,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 132",
+            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 140",
             "type": "vmess",
             "server": "104.19.150.10",
             "server_port": 2095,
