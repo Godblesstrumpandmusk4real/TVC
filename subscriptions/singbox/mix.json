@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 0",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 1",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 2",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 4",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
+                "❔XX | 🔴 | vless | @Parsashonam | 2",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "❔XX | 🔴 | vless | @Parsashonam | 5",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 6",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 7",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 11",
@@ -272,15 +272,17 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 0",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 1",
-                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 2",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3",
-                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 5",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 8",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 9",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2",
+                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 3",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 5",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 11",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 12",
-                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 14",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 15",
+                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 17",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 112",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 113",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 114",
@@ -299,6 +301,7 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 128",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 131",
                 "❔XX | 🔴 | vless | @prrofile_purple | 133",
+                "❔XX | 🔴 | vless | @prrofile_purple | 134",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 135",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 136",
                 "🇱🇻LV | 🔴 | vless | @prrofile_purple | 137",
@@ -461,7 +464,6 @@
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
-                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "🇷🇴RO | 🔴 | vless | @fnet00 | 0",
                 "🇮🇹IT | 🔴 | vless | @fnet00 | 1",
                 "🇧🇪BE | 🔴 | vless | @fnet00 | 2",
@@ -543,12 +545,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 0",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 1",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 2",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 4",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
+                "❔XX | 🔴 | vless | @Parsashonam | 2",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "❔XX | 🔴 | vless | @Parsashonam | 5",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 6",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 7",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 11",
@@ -709,15 +711,17 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 0",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 1",
-                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 2",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3",
-                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 5",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 8",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 9",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2",
+                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 3",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 5",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 11",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 12",
-                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 14",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 15",
+                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 17",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 112",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 113",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 114",
@@ -736,6 +740,7 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 128",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 131",
                 "❔XX | 🔴 | vless | @prrofile_purple | 133",
+                "❔XX | 🔴 | vless | @prrofile_purple | 134",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 135",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 136",
                 "🇱🇻LV | 🔴 | vless | @prrofile_purple | 137",
@@ -898,7 +903,6 @@
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
-                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "🇷🇴RO | 🔴 | vless | @fnet00 | 0",
                 "🇮🇹IT | 🔴 | vless | @fnet00 | 1",
                 "🇧🇪BE | 🔴 | vless | @fnet00 | 2",
@@ -996,11 +1000,11 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 0",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
             "type": "vless",
-            "server": "[2a01:4f8:1c1b:e1d0::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-159",
+            "server": "185.146.173.39",
+            "server_port": 8880,
+            "uuid": "Parsashonam-160",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1010,11 +1014,25 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 1",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 2",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1b:e1d0::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-160",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-159",
+            "uuid": "Parsashonam-160",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1041,39 +1059,11 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 2",
-            "type": "vless",
-            "server": "185.146.173.39",
-            "server_port": 8880,
-            "uuid": "Parsashonam-159",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 4",
-            "type": "vless",
-            "server": "185.146.173.39",
-            "server_port": 8880,
-            "uuid": "Parsashonam-158",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | @Parsashonam | 5",
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-158",
+            "uuid": "Parsashonam-159",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1087,7 +1077,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-158",
+            "uuid": "Parsashonam-159",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1114,11 +1104,25 @@
             }
         },
         {
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 7",
+            "type": "vless",
+            "server": "185.146.173.39",
+            "server_port": 8880,
+            "uuid": "Parsashonam-159",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-157",
+            "uuid": "Parsashonam-158",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1132,7 +1136,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-157",
+            "uuid": "Parsashonam-158",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1146,7 +1150,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-157",
+            "uuid": "Parsashonam-158",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1177,7 +1181,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-156",
+            "uuid": "Parsashonam-157",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1191,7 +1195,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-156",
+            "uuid": "Parsashonam-157",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1205,7 +1209,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-156",
+            "uuid": "Parsashonam-157",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1236,7 +1240,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-155",
+            "uuid": "Parsashonam-156",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1250,7 +1254,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-155",
+            "uuid": "Parsashonam-156",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1264,7 +1268,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-155",
+            "uuid": "Parsashonam-156",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1295,7 +1299,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-154",
+            "uuid": "Parsashonam-155",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1309,7 +1313,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-154",
+            "uuid": "Parsashonam-155",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1323,7 +1327,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-154",
+            "uuid": "Parsashonam-155",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1354,7 +1358,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-153",
+            "uuid": "Parsashonam-154",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1368,7 +1372,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-153",
+            "uuid": "Parsashonam-154",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1382,7 +1386,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-153",
+            "uuid": "Parsashonam-154",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1413,7 +1417,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-152",
+            "uuid": "Parsashonam-153",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1427,7 +1431,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-152",
+            "uuid": "Parsashonam-153",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1441,7 +1445,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-152",
+            "uuid": "Parsashonam-153",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4998,7 +5002,27 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 0",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0",
+            "type": "shadowsocks",
+            "server": "23.154.136.176",
+            "server_port": 9102,
+            "method": "aes-256-gcm",
+            "password": "e4FCWrgpkji3QY",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2",
+            "type": "shadowsocks",
+            "server": "15.204.87.217",
+            "server_port": 5499,
+            "method": "aes-256-gcm",
+            "password": "lGqs95QkFHo2NV",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 3",
             "type": "shadowsocks",
             "server": "158.51.123.253",
             "server_port": 5003,
@@ -5008,7 +5032,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 1",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4",
             "type": "shadowsocks",
             "server": "23.157.40.95",
             "server_port": 8000,
@@ -5018,7 +5042,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 2",
+            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 5",
             "type": "shadowsocks",
             "server": "51.77.53.200",
             "server_port": 6679,
@@ -5028,7 +5052,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6",
             "type": "shadowsocks",
             "server": "45.87.175.157",
             "server_port": 8080,
@@ -5038,7 +5062,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 5",
+            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
             "type": "shadowsocks",
             "server": "mx2.drawnrisha.one",
             "server_port": 55988,
@@ -5048,7 +5072,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 8",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 11",
             "type": "shadowsocks",
             "server": "45.87.175.178",
             "server_port": 8080,
@@ -5058,7 +5082,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 9",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 12",
             "type": "shadowsocks",
             "server": "45.87.175.188",
             "server_port": 8080,
@@ -5068,7 +5092,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 12",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 15",
             "type": "shadowsocks",
             "server": "23.157.40.87",
             "server_port": 5499,
@@ -5078,7 +5102,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 14",
+            "tag": "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 17",
             "type": "shadowsocks",
             "server": "79.127.233.170",
             "server_port": 990,
@@ -5519,6 +5543,20 @@
             "server": "[2a01:4f8:c010:5aa8::1]",
             "server_port": 21535,
             "uuid": "TELEGRAM-ServerNett",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 134",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1b:e1d0::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-152",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -9734,23 +9772,6 @@
                     "public_key": "yXtksaZJPAeCdqGkd9OzsufzBj9uGEOTOP4Dm9003GU",
                     "short_id": "721e34c7"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 2080,
-            "uuid": "cbbaaca-baca-baac-dcab-aabcbacabcbc",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
