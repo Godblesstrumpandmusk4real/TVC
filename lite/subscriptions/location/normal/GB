@@ -1,4 +1,1 @@
-trojan://telegram-id-privatevpns@13.41.15.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16
-trojan://telegram-id-directvpn@18.130.192.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 16
-vless://c9d8fc41-ddc6-49c8-ba2c-268ffd52ed0a@198.244.140.163:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇬🇧GB | 🔴 | vless | @kingofilter | 13
-vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧GB | 🔴 | vless | @kingofilter | 14
+vless://c9d8fc41-ddc6-49c8-ba2c-268ffd52ed0a@198.244.140.163:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇬🇧GB | 🔴 | vless | @kingofilter | 17
