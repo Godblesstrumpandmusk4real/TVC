@@ -112,7 +112,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 14",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
@@ -187,7 +187,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 14",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
@@ -407,11 +407,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "biaZEDMODEON--joinZEDMODEON",
+            "uuid": "biaZEDMODEON--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -431,7 +431,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
                 }
