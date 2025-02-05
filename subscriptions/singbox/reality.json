@@ -125,13 +125,16 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 5",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 13",
                 "🇯🇵JP | 🟢 | vless | @VmessProtocol | 14",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 210",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 211",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 212",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 213",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 214",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 215",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 229",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 230",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 231",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 232",
-                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 233",
-                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 261",
-                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 262",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -156,9 +159,9 @@
                 "🇳🇱NL | 🟢 | vless | @kingofilter | 7",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 1",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 3",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 5",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 15"
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 7",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 17"
             ]
         },
         {
@@ -184,13 +187,16 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 5",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 13",
                 "🇯🇵JP | 🟢 | vless | @VmessProtocol | 14",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 210",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 211",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 212",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 213",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 214",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 215",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 229",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 230",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 231",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 232",
-                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 233",
-                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 261",
-                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 262",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -215,9 +221,9 @@
                 "🇳🇱NL | 🟢 | vless | @kingofilter | 7",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 1",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 3",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 5",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 15"
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 7",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 17"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -833,9 +839,225 @@
             }
         },
         {
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 210",
+            "type": "vless",
+            "server": "v26.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 211",
+            "type": "vless",
+            "server": "v17.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 212",
+            "type": "vless",
+            "server": "v10.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 213",
+            "type": "vless",
+            "server": "v08.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 214",
+            "type": "vless",
+            "server": "v06.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 215",
+            "type": "vless",
+            "server": "v03.blkrose.ir",
+            "server_port": 2053,
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
+                    "short_id": "5640288dca4f8519"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2053vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 229",
             "type": "vless",
-            "server": "v30.blkrose.ir",
+            "server": "v18.blkrose.ir",
             "server_port": 2053,
             "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
             "flow": "xtls-rprx-vision",
@@ -871,7 +1093,7 @@
         {
             "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 230",
             "type": "vless",
-            "server": "v27.blkrose.ir",
+            "server": "v16.blkrose.ir",
             "server_port": 2053,
             "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
             "flow": "xtls-rprx-vision",
@@ -907,7 +1129,7 @@
         {
             "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 231",
             "type": "vless",
-            "server": "v20.blkrose.ir",
+            "server": "v15.blkrose.ir",
             "server_port": 2053,
             "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
             "flow": "xtls-rprx-vision",
@@ -943,117 +1165,9 @@
         {
             "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 232",
             "type": "vless",
-            "server": "v11.blkrose.ir",
-            "server_port": 2053,
-            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
-                    "short_id": "5640288dca4f8519"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2053vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 233",
-            "type": "vless",
-            "server": "v04.blkrose.ir",
-            "server_port": 2053,
-            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
-                    "short_id": "5640288dca4f8519"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2053vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 261",
-            "type": "vless",
             "server": "v13.blkrose.ir",
             "server_port": 2053,
-            "uuid": "08f7c98e-506c-4aca-a3ab-6fc99d015555",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E",
-                    "short_id": "5640288dca4f8519"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2053vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 262",
-            "type": "vless",
-            "server": "v01.blkrose.ir",
-            "server_port": 2053,
-            "uuid": "08f7c98e-506c-4aca-a3ab-6fc99d015555",
+            "uuid": "382ed5ba-36d6-4b76-b844-f368db6f438d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1897,7 +2011,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 5",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -1926,7 +2040,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 5",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 7",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -1955,7 +2069,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 17",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
