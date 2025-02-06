@@ -110,7 +110,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 40",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -145,7 +145,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 238",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 245",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 246",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -161,7 +162,8 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 15",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 15",
+                "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 16",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 18",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 19",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
@@ -177,7 +179,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 40",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -212,7 +214,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 238",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 245",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 246",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -228,7 +231,8 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 15",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 15",
+                "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 16",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 18",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 19",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
@@ -334,7 +338,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "34.249.229.73",
+            "server": "54.246.167.2",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -363,9 +367,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.11.46.228",
+            "server": "34.249.229.73",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1266,7 +1270,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 238",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 245",
             "type": "vless",
             "server": "www.zula.ir",
             "server_port": 2087,
@@ -1280,7 +1284,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "Tp813N171b.AnA-sOfT.iR",
+                "server_name": "Tp8120Mo6G.aNa-SoFt.Ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1292,7 +1296,38 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "Tp813N171b.AnA-sOfT.iR"
+                    "Host": "Tp8120Mo6G.aNa-SoFt.Ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 246",
+            "type": "vless",
+            "server": "angelina.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "197af6c1-89d8-443a-a3e3-deb8e3056779",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ipq36g.kalastore.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wss",
+                "headers": {
+                    "Host": "ipq36g.kalastore.org"
                 }
             }
         },
@@ -1709,7 +1744,21 @@
             }
         },
         {
-            "tag": "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 15",
+            "type": "vless",
+            "server": "WWW.SPEEDTEST.NET",
+            "server_port": 2052,
+            "uuid": "900466aa-aa08-49ed-bf40-d740e5c7d5e7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 16",
             "type": "vless",
             "server": "95.164.38.201",
             "server_port": 2052,
