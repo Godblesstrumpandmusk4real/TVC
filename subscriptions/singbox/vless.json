@@ -391,7 +391,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
                 "❔XX | 🟢 | vless | @DailyV2RY | 220",
-                "❔XX | 🟢 | vless | @DailyV2RY | 221",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 221",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 2",
@@ -471,6 +471,7 @@
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 14",
                 "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 15",
+                "🇫🇮FI | 🔴 | vless | @kingofilter | 17",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 1",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 6",
@@ -775,7 +776,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
                 "❔XX | 🟢 | vless | @DailyV2RY | 220",
-                "❔XX | 🟢 | vless | @DailyV2RY | 221",
+                "🇨🇦CA | 🟢 | vless | @DailyV2RY | 221",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 2",
@@ -855,6 +856,7 @@
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 14",
                 "&security=none&encryption=none&type=ws#🇳🇴NO | 🔴 | vless | @kingofilter | 15",
+                "🇫🇮FI | 🔴 | vless | @kingofilter | 17",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 1",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 6",
@@ -8327,7 +8329,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 221",
+            "tag": "🇨🇦CA | 🟢 | vless | @DailyV2RY | 221",
             "type": "vless",
             "server": "v15.blkrose.ir",
             "server_port": 2053,
@@ -10432,6 +10434,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🔴 | vless | @kingofilter | 17",
+            "type": "vless",
+            "server": "upgrade.bia2bax.shop",
+            "server_port": 80,
+            "uuid": "v2rayng__76",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2053",
+                "headers": {
+                    "Host": "upgrade.bia2bax.shop"
+                }
             }
         },
         {
