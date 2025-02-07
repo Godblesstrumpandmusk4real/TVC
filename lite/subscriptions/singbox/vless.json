@@ -109,8 +109,8 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -177,8 +177,8 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -334,7 +334,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
             "server": "51.44.36.50",
             "server_port": 22222,
@@ -365,7 +365,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
             "server": "3.126.56.126",
             "server_port": 22222,
