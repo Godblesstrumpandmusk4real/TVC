@@ -362,7 +362,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 191",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 192",
                 "❔XX | 🟢 | vless | @DailyV2RY | 193",
-                "❔XX | 🟢 | vless | @DailyV2RY | 194",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 194",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 195",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 196",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 197",
@@ -393,8 +393,8 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 223",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 224",
                 "❔XX | 🔴 | vless | @DailyV2RY | 225",
-                "❔XX | 🟢 | vless | @DailyV2RY | 226",
-                "❔XX | 🟢 | vless | @DailyV2RY | 227",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 226",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 227",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 228",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
@@ -752,7 +752,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 191",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 192",
                 "❔XX | 🟢 | vless | @DailyV2RY | 193",
-                "❔XX | 🟢 | vless | @DailyV2RY | 194",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 194",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 195",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 196",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 197",
@@ -783,8 +783,8 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 223",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 224",
                 "❔XX | 🔴 | vless | @DailyV2RY | 225",
-                "❔XX | 🟢 | vless | @DailyV2RY | 226",
-                "❔XX | 🟢 | vless | @DailyV2RY | 227",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 226",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 227",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 228",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
@@ -7347,7 +7347,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 194",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 194",
             "type": "vless",
             "server": "v22.blkrose.ir",
             "server_port": 2053,
@@ -8222,7 +8222,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 226",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 226",
             "type": "vless",
             "server": "v27.blkrose.ir",
             "server_port": 2053,
@@ -8258,7 +8258,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 227",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 227",
             "type": "vless",
             "server": "v14.blkrose.ir",
             "server_port": 2053,
