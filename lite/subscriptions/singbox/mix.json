@@ -154,7 +154,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 240",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -235,7 +235,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 240",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -1472,11 +1472,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 240",
             "type": "vless",
-            "server": "cash.ns.cloudflare.com",
+            "server": "wear.net",
             "server_port": 443,
-            "uuid": "1ff28f0a-589c-4399-aec8-12fbbc459662",
+            "uuid": "046fd332-80a6-43b0-91b0-7238a1dfc36c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1486,7 +1486,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "5zhah5.bestvpninuae.com",
+                "server_name": "wear.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1496,9 +1496,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/wss",
+                "path": "\/",
                 "headers": {
-                    "Host": "5zhah5.bestvpninuae.com"
+                    "Host": "wear.net"
                 }
             }
         },
@@ -1627,7 +1627,7 @@
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,
-            "uuid": "caaabcb-acba-acba-bacd-bccbaaabcabc",
+            "uuid": "babaacc-baca-abac-badc-cbcbabccabaa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1644,7 +1644,7 @@
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,
-            "uuid": "cbabcaa-baca-caab-dcba-acbccaababbc",
+            "uuid": "caaabcb-acba-acba-bacd-bccbaaabcabc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
