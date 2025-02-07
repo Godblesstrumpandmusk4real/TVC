@@ -110,7 +110,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -125,9 +125,9 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 15",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
@@ -154,8 +154,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 262",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 263",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 273",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 274",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -191,7 +191,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -206,9 +206,9 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 15",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
@@ -235,8 +235,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 262",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 263",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 273",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 274",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -362,7 +362,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "46.137.120.6",
+            "server": "54.76.30.92",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -391,9 +391,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "18.132.176.197",
+            "server": "46.137.120.6",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -762,9 +762,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "13.41.215.105",
+            "server": "54.220.133.195",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -786,7 +786,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "18.171.77.143",
+            "server": "13.41.215.105",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -806,9 +806,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "18.130.94.50",
+            "server": "3.255.52.7",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -830,7 +830,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "18.171.141.131",
+            "server": "18.130.94.50",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1486,7 +1486,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 262",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 273",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -1507,7 +1507,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 263",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 274",
             "type": "vless",
             "server": "angelina.ns.cloudflare.com",
             "server_port": 443,
