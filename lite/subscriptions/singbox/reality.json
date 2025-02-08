@@ -215,7 +215,7 @@
             "type": "vless",
             "server": "Amin11.auiyf.com",
             "server_port": 443,
-            "uuid": "019d853b-020c-44b3-dec3-20f129291af1",
+            "uuid": "4a65db82-c443-451b-923e-274a3fca5ce5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
