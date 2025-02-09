@@ -109,8 +109,8 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 34",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 35",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
@@ -124,13 +124,13 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "❔XX | 🔴 | vless | @prrofile_purple | 158",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 159",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
-                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 36",
+                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 47",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -178,8 +178,8 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 34",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 35",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
@@ -193,13 +193,13 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "❔XX | 🔴 | vless | @prrofile_purple | 158",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 159",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
-                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 36",
+                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 47",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -336,7 +336,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
             "server": "35.178.113.162",
             "server_port": 22222,
@@ -367,7 +367,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
             "server": "13.36.115.77",
             "server_port": 22222,
@@ -721,11 +721,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 158",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
             "type": "vless",
-            "server": "[2a01:4f8:c010:5aa8::1]",
-            "server_port": 13776,
-            "uuid": "TELEGRAM-ServerNett",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "627a4fee-ae9b-8ef9-6e66-a4e128dd2331",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -735,11 +735,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 159",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
             "type": "vless",
-            "server": "141.11.21.117",
-            "server_port": 4003,
-            "uuid": "7dc9496c-07fd-44a5-9acd-7f086eeeecf6",
+            "server": "57.129.58.147",
+            "server_port": 22671,
+            "uuid": "ebc5660f-bb9b-415c-94ab-d3630189ceb9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -836,7 +836,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 36",
+            "tag": "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 47",
             "type": "vless",
             "server": "s26.radnikmax.ir",
             "server_port": 8452,
@@ -1591,9 +1591,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
             "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "b00c1456-7489-4cac-8efc-652d2c1fb4b8",
+            "server": "104.21.32.1",
+            "server_port": 2087,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1601,11 +1601,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "HASti.FReeAirlAINEs.cOm",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/olem\/ws?ed=1024",
+                "path": "\/n9VBBKoNzJpkUcnO",
                 "headers": {
-                    "Host": "speedtest.net"
+                    "Host": "HASti.FReeAirlAINEs.cOm"
                 }
             }
         },
