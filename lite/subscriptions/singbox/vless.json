@@ -260,7 +260,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-162",
+            "uuid": "Parsashonam-163",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -291,7 +291,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-162",
+            "uuid": "Parsashonam-163",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
