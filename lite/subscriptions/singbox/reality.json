@@ -152,7 +152,7 @@
             "type": "vless",
             "server": "c2.vact.ir",
             "server_port": 2083,
-            "uuid": "0b874fb1-8916-45b6-bfbe-49140d31c22e",
+            "uuid": "fce9d0ed-0d9f-4fae-8ea3-a82a3c29dae7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -188,7 +188,7 @@
             "type": "vless",
             "server": "c1.vact.ir",
             "server_port": 2083,
-            "uuid": "048a4eec-aa97-44bc-b9f0-335767d4961f",
+            "uuid": "bdfc5e86-8cd9-4dae-9e72-5731cfca2ff6",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
