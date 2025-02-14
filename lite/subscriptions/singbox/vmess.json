@@ -110,8 +110,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
+                "🇹🇷TR | 🟢 | vmess | @Hope_Net | 13",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 11"
             ]
         },
@@ -123,8 +123,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
+                "🇹🇷TR | 🟢 | vmess | @Hope_Net | 13",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 11"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -240,35 +240,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
+            "tag": "🇹🇷TR | 🟢 | vmess | @Hope_Net | 13",
             "type": "vmess",
-            "server": "s1.db-link02.top",
-            "server_port": 80,
-            "uuid": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/dabai.in104.17.169.115",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
-            "type": "vmess",
-            "server": "it0.899994.xyz",
-            "server_port": 8443,
-            "uuid": "a0605527-28e4-449c-80ee-5642cc16a8af",
+            "server": "202.78.162.5",
+            "server_port": 443,
+            "uuid": "2ff97c6d-8557-42a4-b43f-19c77c5959ea",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -281,7 +257,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "it0.899994.xyz",
+                "server_name": "",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -291,9 +267,33 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/index",
+                "path": "\/@forwardv2ray",
                 "headers": {
-                    "Host": "it0.899994.xyz"
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
+            "type": "vmess",
+            "server": "104.16.38.71",
+            "server_port": 2052,
+            "uuid": "c286daa2-59de-455c-8de8-ec032b6ce2e8",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.16.38.71"
                 }
             }
         },
