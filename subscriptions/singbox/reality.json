@@ -152,7 +152,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 260",
                 "🇸🇪SE | 🟢 | vless | @DailyV2RY | 261",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 15",
-                "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 2",
+                "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
@@ -235,7 +235,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 260",
                 "🇸🇪SE | 🟢 | vless | @DailyV2RY | 261",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 15",
-                "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 2",
+                "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
@@ -1755,7 +1755,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 2",
+            "tag": "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "103.71.22.3",
             "server_port": 443,
