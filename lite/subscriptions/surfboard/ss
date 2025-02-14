@@ -11,10 +11,11 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 18 = ss, a001.standard-nodes-chickenfarms.com, 50000, encrypt-method = aes-256-gcm, password = 176c983f-6a7f-4a96-9865-891a6c48ec86
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK
-URL-TEST = url-test
-FALLBACK = fallback
+MANUAL = select,URL-TEST,FALLBACK,🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 18
+URL-TEST = url-test,🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 18
+FALLBACK = fallback,🇭🇰HK | 🟢 | ss | @DeamNet_Proxy | 18
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
