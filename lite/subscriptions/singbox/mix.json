@@ -111,7 +111,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 12",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
@@ -131,9 +131,9 @@
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 12",
                 "🇩🇪DE | 🟢 | vless | @azadi_az_inja_migzare | 13",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 15",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
@@ -162,8 +162,8 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 19",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
@@ -193,7 +193,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 12",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
@@ -213,9 +213,9 @@
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 12",
                 "🇩🇪DE | 🟢 | vless | @azadi_az_inja_migzare | 13",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 15",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
@@ -244,8 +244,8 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 19",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
@@ -368,7 +368,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "34.255.18.130",
+            "server": "52.16.5.146",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -397,9 +397,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "52.56.85.113",
+            "server": "34.255.18.130",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -897,9 +897,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "3.11.246.170",
+            "server": "54.217.200.220",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -921,7 +921,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "3.10.131.44",
+            "server": "3.11.246.170",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -941,9 +941,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "18.169.40.227",
+            "server": "34.249.202.69",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -965,7 +965,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "3.11.35.127",
+            "server": "18.169.40.227",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1692,11 +1692,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "ywtwepcnwlou.xn--fiqs8sjz2bull.com",
-            "server_port": 33184,
-            "uuid": "b2d1e704-59f5-48ec-ba97-9a5e2005b37b",
+            "server": "www.visa.com.tw",
+            "server_port": 443,
+            "uuid": "8918b792-996c-4bbd-bf1a-6121f7968636",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1706,14 +1706,31 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.visa.com.tw",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vmess-argo",
+                "headers": {
+                    "Host": "www.visa.com.tw"
+                }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "babacac-abca-aacb-dbac-cbccbbacbaaa",
+            "server": "ywtwepcnwlou.xn--fiqs8sjz2bull.com",
+            "server_port": 33184,
+            "uuid": "b2d1e704-59f5-48ec-ba97-9a5e2005b37b",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
