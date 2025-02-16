@@ -118,7 +118,6 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
@@ -150,8 +149,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇮🇩ID | 🔴 | vless | @VmessProtocol | 8",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 327",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 328",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 340",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 0",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 13",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
@@ -189,7 +188,6 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
@@ -221,8 +219,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇮🇩ID | 🔴 | vless | @VmessProtocol | 8",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 327",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 328",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 340",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 0",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 13",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
@@ -571,27 +569,6 @@
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
                     "Host": "AC.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1368,7 +1345,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 327",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 340",
+            "type": "vless",
+            "server": "tgju.org",
+            "server_port": 80,
+            "uuid": "30a788c7-a2c8-4e65-b9c4-2a6d7ff06e9b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "tgju.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
             "type": "vless",
             "server": "jermaine.ns.cloudflare.com",
             "server_port": 443,
@@ -1395,27 +1393,6 @@
                 "path": "\/wss",
                 "headers": {
                     "Host": "o7qgfk.payperflower.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 328",
-            "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "04cfc03e-6c57-4e9b-9417-8bb3a803db66",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "tgju.org"
                 }
             }
         },
