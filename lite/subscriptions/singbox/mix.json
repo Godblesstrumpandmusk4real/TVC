@@ -157,13 +157,13 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 342",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 322",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 7",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
+                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 6",
+                "🇨🇭CH | 🟢 | vmess | @Hope_Net | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -236,13 +236,13 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 342",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 322",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 7",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
+                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 6",
+                "🇨🇭CH | 🟢 | vmess | @Hope_Net | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -1519,9 +1519,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 322",
             "type": "vless",
-            "server": "34.212.174.185",
+            "server": "35.162.129.208",
             "server_port": 3229,
             "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
             "flow": "",
@@ -1533,34 +1533,17 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 342",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 323",
             "type": "vless",
-            "server": "chloe.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "0d47f62c-5cc1-44d6-9cdb-504e949109e1",
+            "server": "34.222.206.124",
+            "server_port": 3229,
+            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nw0z1l.fivegravity.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wss",
-                "headers": {
-                    "Host": "nw0z1l.fivegravity.com"
-                }
             }
         },
         {
@@ -1658,11 +1641,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇬🇧GB | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "46.29.166.237",
-            "server_port": 47555,
-            "uuid": "0c49cd19-2758-4d38-e6a8-11f2d6635860",
+            "server": "38.114.120.12",
+            "server_port": 47567,
+            "uuid": "cda5dfaa-99e8-42d6-9f0b-6ef30f76e92c",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1675,11 +1658,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
+            "tag": "🇨🇭CH | 🟢 | vmess | @Hope_Net | 7",
             "type": "vmess",
-            "server": "104.21.16.100",
-            "server_port": 2053,
-            "uuid": "eb817168-5f83-4fba-af99-881ec0e547b1",
+            "server": "23.166.88.183",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1689,23 +1672,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "qurantv.iribquran.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "qurantv.iribquran.com"
-                }
             }
         },
         {
