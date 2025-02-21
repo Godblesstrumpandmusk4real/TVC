@@ -109,8 +109,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 12",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
@@ -149,8 +149,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 280",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 281",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 282",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 283",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇹🇷TR | 🔴 | vless | @Outlinev2rayNG | 13",
@@ -177,8 +177,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 12",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
@@ -217,8 +217,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 280",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 281",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 282",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 283",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇹🇷TR | 🔴 | vless | @Outlinev2rayNG | 13",
@@ -317,9 +317,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "15.188.189.105",
+            "server": "18.132.6.83",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -348,9 +348,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.76.54.226",
+            "server": "13.37.0.232",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1343,12 +1343,12 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 280",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 282",
             "type": "vless",
-            "server": "jermaine.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "683ca56e-5b47-48d8-ae1e-9c4df7be9802",
-            "flow": "",
+            "server": "15.181.244.205",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1357,29 +1357,27 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "k2h6ga.alligator27app.com",
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wss",
-                "headers": {
-                    "Host": "k2h6ga.alligator27app.com"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 281",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 283",
             "type": "vless",
-            "server": "jermaine.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "177448d4-687f-4fc5-a5f8-fd3a5056f545",
-            "flow": "",
+            "server": "108.166.244.63",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1388,19 +1386,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "27rvlw.a27app.com",
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wss",
-                "headers": {
-                    "Host": "27rvlw.a27app.com"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
                 }
             }
         },
