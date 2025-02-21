@@ -124,7 +124,6 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 26",
                 "❔XX | 🔴 | vless | @Parsashonam | 27",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 28",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -505,7 +504,6 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 26",
                 "❔XX | 🔴 | vless | @Parsashonam | 27",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 28",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -1235,20 +1233,6 @@
                 "headers": {
                     "Host": "Zmaoz.Faculty.Ucdavis.Edu."
                 }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
-            "type": "vless",
-            "server": "185.146.173.39",
-            "server_port": 8880,
-            "uuid": "Parsashonam-172",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
