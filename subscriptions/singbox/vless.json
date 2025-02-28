@@ -245,7 +245,7 @@
                 "🚩CF | 🔴 | vless | @prrofile_purple | 143",
                 "❔XX | 🔴 | vless | @prrofile_purple | 144",
                 "❔XX | 🔴 | vless | @prrofile_purple | 148",
-                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 150",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 152",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 157",
@@ -594,7 +594,7 @@
                 "🚩CF | 🔴 | vless | @prrofile_purple | 143",
                 "❔XX | 🔴 | vless | @prrofile_purple | 144",
                 "❔XX | 🔴 | vless | @prrofile_purple | 148",
-                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 150",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 152",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 157",
@@ -4306,7 +4306,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @prrofile_purple | 150",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
