@@ -233,7 +233,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 4",
+                "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
@@ -292,7 +292,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 2",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3",
                 "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 4",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
@@ -694,7 +694,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 4",
+                "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
@@ -753,7 +753,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 2",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3",
                 "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 4",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
@@ -4144,7 +4144,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -5445,7 +5445,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 2",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2",
             "type": "shadowsocks",
             "server": "beesyar.org",
             "server_port": 8080,
