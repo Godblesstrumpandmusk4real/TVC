@@ -132,7 +132,7 @@ proxies:
   - {"name":"🇺🇸US | 🟢 | vless | @vpn_xw | 0","type":"vless","server":"34.213.64.5","port":1212,"udp":true,"uuid":"a7e04b44-855e-4fe7-8fa0-31894e928bce","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"stackoverflow.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A","short-id":"a4844ba7"}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 7","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68613","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 8","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68612","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @proxy_kafee | 2","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/LwW5jwrnymnOdqki?ed=2560","headers":{"host":"redw.pooriam.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 2","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/LwW5jwrnymnOdqki?ed=2560","headers":{"host":"redw.pooriam.ir"}}}
   - {"name":"❔XX | 🔴 | vless | @V2rayCollectorDonate | 18","type":"vless","server":"web.bbv2ry.pics","port":443,"udp":false,"uuid":"ac6b3d48-d16f-4125-9f17-d986541a3ee9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Sky2.bbv2ry.pics","ws-opts":{"path":"/","headers":{"host":"Sky2.bbv2ry.pics"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 158","type":"vless","server":"104.26.14.85","port":80,"udp":false,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"a.xn--i-sx6a60i.us.kg."}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @prrofile_purple | 159","type":"vless","server":"tify-binex-join.espikernajafi.ir","port":2053,"udp":false,"uuid":"718676c7-7f52-48af-9b81-d8e13017aad8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560"}}
@@ -184,7 +184,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @vpn_xw | 0'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
-      - '🇨🇦CA | 🔴 | vless | @proxy_kafee | 2'
+      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 2'
       - '❔XX | 🔴 | vless | @V2rayCollectorDonate | 18'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 158'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 159'
@@ -236,7 +236,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @vpn_xw | 0'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
-      - '🇨🇦CA | 🔴 | vless | @proxy_kafee | 2'
+      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 2'
       - '❔XX | 🔴 | vless | @V2rayCollectorDonate | 18'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 158'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 159'
@@ -287,7 +287,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @vpn_xw | 0'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
-      - '🇨🇦CA | 🔴 | vless | @proxy_kafee | 2'
+      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 2'
       - '❔XX | 🔴 | vless | @V2rayCollectorDonate | 18'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 158'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 159'

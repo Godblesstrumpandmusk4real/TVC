@@ -125,7 +125,7 @@
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -197,7 +197,7 @@
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -739,7 +739,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
