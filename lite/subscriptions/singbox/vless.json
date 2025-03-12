@@ -117,7 +117,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -136,7 +136,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -145,8 +145,8 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 7",
                 "🇺🇸US | 🟢 | vless | @v2ray1_ng | 8",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 14",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
@@ -187,7 +187,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -206,7 +206,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -215,8 +215,8 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 7",
                 "🇺🇸US | 🟢 | vless | @v2ray1_ng | 8",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 14",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
@@ -559,7 +559,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -979,7 +979,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1187,7 +1187,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 14",
             "type": "vless",
             "server": "172.67.187.170",
             "server_port": 443,
@@ -1218,7 +1218,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.214.22",
             "server_port": 443,
