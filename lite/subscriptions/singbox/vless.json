@@ -109,7 +109,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 19",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "❔XX | 🟢 | vless | @ipV2Ray | 16",
                 "❔XX | 🟢 | vless | @ipV2Ray | 17",
@@ -128,7 +128,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇫🇮FI | 🔴 | vless | @prrofile_purple | 149",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 141",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -177,7 +178,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 19",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "❔XX | 🟢 | vless | @ipV2Ray | 16",
                 "❔XX | 🟢 | vless | @ipV2Ray | 17",
@@ -196,7 +197,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇫🇮FI | 🔴 | vless | @prrofile_purple | 149",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 141",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -317,9 +319,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "3.121.17.74",
+            "server": "13.36.161.28",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -350,7 +352,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "3.121.15.99",
+            "server": "3.121.17.74",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -814,17 +816,38 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @prrofile_purple | 149",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
             "type": "vless",
-            "server": "135.181.155.147",
-            "server_port": 40240,
-            "uuid": "ad14a642-09d6-4fc2-8b76-7cd7e27b5bcd",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "SAVTEAM3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 141",
+            "type": "vless",
+            "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER-884fa7512446",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080",
+                "headers": {
+                    "Host": "NUFiLTER.fastly80-3.hosting-ip.com"
+                }
             }
         },
         {
