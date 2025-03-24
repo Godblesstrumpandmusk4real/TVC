@@ -290,7 +290,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 0",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
@@ -430,6 +430,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+                "=\/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 5",
@@ -667,7 +668,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 0",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
@@ -807,6 +808,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+                "=\/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 5",
@@ -5246,7 +5248,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
@@ -8856,6 +8858,20 @@
                 "headers": {
                     "Host": "www.speedtest.net"
                 }
+            }
+        },
+        {
+            "tag": "=\/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#🚩CF | 🔴 | vless | @mehrosaboran | 0",
+            "type": "vless",
+            "server": "104.26.15.85",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
