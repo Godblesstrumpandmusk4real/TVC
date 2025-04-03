@@ -148,9 +148,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 202",
                 "❔XX | 🔴 | vless | @proxystore11 | 10",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
@@ -158,7 +156,7 @@
                 "🇺🇸US | 🟢 | vless | @proxy_mtm | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇯🇵JP | 🔴 | vless | @kingofilter | 7",
+                "🇯🇵JP | 🔴 | vless | @kingofilter | 8",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 10",
@@ -213,9 +211,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 202",
                 "❔XX | 🔴 | vless | @proxystore11 | 10",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 14",
@@ -223,7 +219,7 @@
                 "🇺🇸US | 🟢 | vless | @proxy_mtm | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇯🇵JP | 🔴 | vless | @kingofilter | 7",
+                "🇯🇵JP | 🔴 | vless | @kingofilter | 8",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 10",
@@ -1297,7 +1293,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
             "type": "vless",
             "server": "162.159.153.2",
             "server_port": 443,
@@ -1325,41 +1321,6 @@
                 "headers": {
                     "Host": "5-55sfjslf.ifenxiang.cfd"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-            "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 80,
-            "uuid": "Parsashonam-206",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Parsashonam",
-                "headers": {
-                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 11",
-            "type": "vless",
-            "server": "185.146.173.39",
-            "server_port": 8880,
-            "uuid": "Parsashonam-206",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -1575,7 +1536,7 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🔴 | vless | @kingofilter | 7",
+            "tag": "🇯🇵JP | 🔴 | vless | @kingofilter | 8",
             "type": "vless",
             "server": "156.238.18.60",
             "server_port": 2095,
