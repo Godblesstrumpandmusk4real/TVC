@@ -176,7 +176,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 12","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"5a980f62-f6b0-43f6-afa4-b6872374e2f8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 13","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"76b1f5a1-fdb7-4b9c-a94c-43637c8b167f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 14","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"c12cdd67-9c0d-4ebe-a034-02999b62355c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 15","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"37da828e-4406-4876-8ebf-b737ebcbd9b8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @lightning6 | 15","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"37da828e-4406-4876-8ebf-b737ebcbd9b8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 16","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"4aa074e4-e833-4c37-88da-ea06e5d6cf5e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 17","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"0c475a64-4636-4065-98a7-b9928ce09cc0","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0","type":"vless","server":"ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM","port":80,"udp":false,"uuid":"620e7ed5-111a-49fe-baec-f7938bb74ef3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER","headers":{"host":"V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com."}}}
@@ -438,7 +438,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lightning6 | 12'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 13'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 14'
-      - '🇺🇸US | 🔴 | vless | @lightning6 | 15'
+      - '🇨🇦CA | 🔴 | vless | @lightning6 | 15'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 16'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 17'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0'
@@ -700,7 +700,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lightning6 | 12'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 13'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 14'
-      - '🇺🇸US | 🔴 | vless | @lightning6 | 15'
+      - '🇨🇦CA | 🔴 | vless | @lightning6 | 15'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 16'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 17'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0'
@@ -961,7 +961,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lightning6 | 12'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 13'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 14'
-      - '🇺🇸US | 🔴 | vless | @lightning6 | 15'
+      - '🇨🇦CA | 🔴 | vless | @lightning6 | 15'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 16'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 17'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0'
