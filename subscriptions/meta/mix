@@ -432,7 +432,7 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @Hope_Net | 8","type":"vmess","server":"dxv4.pai50288.uk","port":"14100","cipher":"auto","uuid":"f6866b0b-f946-4a03-8df0-c7e0016b55ad","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @Hope_Net | 9","type":"vmess","server":"yes.mojcn.com","port":"16618","cipher":"auto","uuid":"6400c720-13f6-45b0-81ea-419b89873cd2","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"66d0c215104536850c337da2227b21cb.mobgslb.tbcache.com"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outlinev2rayNG | 1","type":"vless","server":"104.18.27.94","port":443,"udp":false,"uuid":"59860b15-b2d9-47f9-9b92-81bd1639fcc5","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"5-55sfjslf.ifenxiang.cfd","ws-opts":{"path":"/?ed=2560","headers":{"host":"5-55sfjslf.ifenxiang.cfd"}}}
-  - {"name":"❔XX | 🔴 | vless | @Outlinev2rayNG | 8","type":"vless","server":"web.wiroholding.ir","port":27081,"udp":false,"uuid":"e5513584-3c19-49be-ab4d-8118ea22ffe1","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8","type":"vless","server":"web.wiroholding.ir","port":27081,"udp":false,"uuid":"e5513584-3c19-49be-ab4d-8118ea22ffe1","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🟢 | vmess | @FreakConfig | 0","type":"vmess","server":"2a01:4f8:c010:6ca3::1","port":"41358","cipher":"auto","uuid":"68719eee-35cf-4980-adb3-b3986f566bf7","alterId":"0","tls":false,"skip-cert-verify":true,"network":"kcp"}
   - {"name":"🇩🇪DE | 🔴 | vless | @FreakConfig | 1","type":"vless","server":"116.203.184.248","port":48460,"udp":false,"uuid":"6c7a591f-10ee-474f-bbc8-00f893a084ef","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🟢 | vless | @FreakConfig | 3","type":"vless","server":"mw2.niassa.ir","port":443,"udp":true,"uuid":"b78fb3f5-e6a9-4e00-859f-3a886b19b394","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"eset.com","reality-opts":{"public-key":"3Yzz5Unz5elPLlaQkzgBxirSUbvIRbg9XlJ1Vruc4RI","short-id":"8819"}}
@@ -824,7 +824,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 8'
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 9'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 1'
-      - '❔XX | 🔴 | vless | @Outlinev2rayNG | 8'
+      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8'
       - '❔XX | 🟢 | vmess | @FreakConfig | 0'
       - '🇩🇪DE | 🔴 | vless | @FreakConfig | 1'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 3'
@@ -1216,7 +1216,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 8'
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 9'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 1'
-      - '❔XX | 🔴 | vless | @Outlinev2rayNG | 8'
+      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8'
       - '❔XX | 🟢 | vmess | @FreakConfig | 0'
       - '🇩🇪DE | 🔴 | vless | @FreakConfig | 1'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 3'
@@ -1607,7 +1607,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 8'
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 9'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 1'
-      - '❔XX | 🔴 | vless | @Outlinev2rayNG | 8'
+      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 8'
       - '❔XX | 🟢 | vmess | @FreakConfig | 0'
       - '🇩🇪DE | 🔴 | vless | @FreakConfig | 1'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 3'
