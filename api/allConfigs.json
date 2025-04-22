@@ -258,7 +258,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/5ee22d62-5c0b-4490-ab6b-bbc3f5523180@ip.sitwe.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=ip.sitwe.ir&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ipV2Ray%20|%206"
+        "config": "vless:\/\/5ee22d62-5c0b-4490-ab6b-bbc3f5523180@ip.sitwe.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=ip.sitwe.ir&type=httpupgrade#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@ipV2Ray%20|%206"
     },
     {
         "channel": {
@@ -591,7 +591,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=Www.speedtest.net.a.2.mashti.link.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ARv2ray%20|%209"
+        "config": "vless:\/\/telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=Www.speedtest.net.a.2.mashti.link.&type=ws#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@ARv2ray%20|%209"
     },
     {
         "channel": {
@@ -1212,7 +1212,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp#❔XX%20|%20🔴%20|%20trojan%20|%20@V2rayCollectorDonate%20|%2017"
+        "config": "trojan:\/\/V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp#🇮🇷IR%20|%20🔴%20|%20trojan%20|%20@V2rayCollectorDonate%20|%2017"
     },
     {
         "channel": {
@@ -3364,24 +3364,6 @@
         },
         "type": "vmess",
         "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6Ijg5LjE4LjU4LjYzIiwicG9ydCI6IjE4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmQ1ogfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDUifQ=="
-    },
-    {
-        "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjIxMi4xOTIuMTIuMTU0IiwicG9ydCI6IjIzMDIwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImYzOTExMDc4LTM4MGEtNDIxMy05MDIzLWYxMDczZGU2NzE5NyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMEhLIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA2In0="
-    },
-    {
-        "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjExMi42NS45Mi4yMCIsInBvcnQiOiI0NTI1MSIsInR5cGUiOiJub25lIiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ04gfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDcifQ=="
     },
     {
         "channel": {
