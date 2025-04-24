@@ -341,7 +341,6 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
                 "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 9",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 11",
-                "🇫🇮FI | 🔴 | vless | @v2ray1_ng | 12",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -735,7 +734,6 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
                 "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 9",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 11",
-                "🇫🇮FI | 🔴 | vless | @v2ray1_ng | 12",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -6299,27 +6297,6 @@
                 "path": "\/Telegram-@V2ray_Alpha",
                 "headers": {
                     "Host": "5-55sfjslf.ifenxiang.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🔴 | vless | @v2ray1_ng | 12",
-            "type": "vless",
-            "server": "65.109.221.64",
-            "server_port": 23227,
-            "uuid": "527d06c5-c0ce-4e43-ecd4-0864d3671874",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "65.109.221.64"
                 }
             }
         },
