@@ -123,7 +123,7 @@
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 134",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 135",
                 "❔XX | 🔴 | vless | @prrofile_purple | 140",
-                "❔XX | 🔴 | vless | @prrofile_purple | 147",
+                "🚩CF | 🔴 | vless | @prrofile_purple | 147",
                 "🇨🇭CH | 🟢 | vless | @prrofile_purple | 148",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 152",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 1",
@@ -189,7 +189,7 @@
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 134",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 135",
                 "❔XX | 🔴 | vless | @prrofile_purple | 140",
-                "❔XX | 🔴 | vless | @prrofile_purple | 147",
+                "🚩CF | 🔴 | vless | @prrofile_purple | 147",
                 "🇨🇭CH | 🟢 | vless | @prrofile_purple | 148",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 152",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 1",
@@ -782,7 +782,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🚩CF | 🔴 | vless | @prrofile_purple | 147",
             "type": "vless",
             "server": "mehdi23.vact.ir",
             "server_port": 443,
