@@ -108,13 +108,12 @@
                 "URL-TEST",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 139",
                 "❔XX | 🟢 | vless | @prrofile_purple | 140",
-                "🇬🇧GB | 🟢 | vless | @v2ray1_ng | 4",
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 15",
-                "❔XX | 🔴 | vless | @free1_vpn | 4",
+                "❔XX | 🔴 | vless | @free1_vpn | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @SvnTeam | 8"
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8"
             ]
         },
         {
@@ -123,13 +122,12 @@
             "outbounds": [
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 139",
                 "❔XX | 🟢 | vless | @prrofile_purple | 140",
-                "🇬🇧GB | 🟢 | vless | @v2ray1_ng | 4",
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 15",
-                "❔XX | 🔴 | vless | @free1_vpn | 4",
+                "❔XX | 🔴 | vless | @free1_vpn | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @SvnTeam | 8"
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -210,35 +208,6 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @v2ray1_ng | 4",
-            "type": "vless",
-            "server": "64.227.35.202",
-            "server_port": 443,
-            "uuid": "f0f8ae10-e52f-4454-f5ac-55b4e25eeb73",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tnDvChtpeNANGe52_QG3Jx6esgMTil1tcg7jlYPmoRY",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🟢 | vless | @VmessProtocol | 14",
             "type": "vless",
             "server": "mww2.rogha.ir",
@@ -297,7 +266,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free1_vpn | 4",
+            "tag": "❔XX | 🔴 | vless | @free1_vpn | 5",
             "type": "vless",
             "server": "mmdv.s8573.ir",
             "server_port": 28982,
@@ -398,7 +367,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
