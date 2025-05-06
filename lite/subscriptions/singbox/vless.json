@@ -131,7 +131,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 10",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 11",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 154",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -201,7 +201,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 10",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 11",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 154",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -800,7 +800,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 8080,
