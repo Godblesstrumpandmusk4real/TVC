@@ -129,11 +129,11 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 0","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"338bb2c5-22a4-4864-805c-b5cd2ee6a865","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 1","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"4b270bff-0f7e-428e-9fab-a4d96c068e8b","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 2","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"bb344773-1c6f-45f1-a73d-5c2028ace9db","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 3","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"d4bc5118-7158-4755-ad3b-b0b54072bdbb","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @ipV2Ray | 3","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"d4bc5118-7158-4755-ad3b-b0b54072bdbb","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 4","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"f7286f11-3b13-4342-a829-a8b1563146c7","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 5","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"d9471598-bdfb-44f4-bc92-6589dac48fb2","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 6","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"70558b53-e4fd-43d4-98b2-b7cf84de8276","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 7","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"e9277571-804d-4697-b673-70a4e318952f","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @ipV2Ray | 6","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"70558b53-e4fd-43d4-98b2-b7cf84de8276","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @ipV2Ray | 7","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"e9277571-804d-4697-b673-70a4e318952f","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 8","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"1bc63b1b-5d65-4230-b6bd-84c141eb1da5","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 9","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"7c30bf84-bd33-4b21-9abc-7f756ecf006b","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 1","type":"vless","server":"speedtest.net","port":80,"udp":false,"uuid":"b26e6aca-66c8-491f-8389-b33ac192ffe8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
@@ -363,7 +363,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"f7286f11-3b13-4342-a829-a8b1563146c7","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"d9471598-bdfb-44f4-bc92-6589dac48fb2","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 6","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"f4ed5ab6-8c23-43dd-8a74-dc71c7d53008","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 7","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"70558b53-e4fd-43d4-98b2-b7cf84de8276","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @flyv2ray | 7","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"70558b53-e4fd-43d4-98b2-b7cf84de8276","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 8","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"75f66308-eb61-418f-a0f0-3fe8d6158999","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 9","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"1bc63b1b-5d65-4230-b6bd-84c141eb1da5","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 11","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"7c30bf84-bd33-4b21-9abc-7f756ecf006b","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
@@ -418,11 +418,11 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 0'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 1'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 2'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 3'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 3'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 5'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 6'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 7'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 6'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 7'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 8'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 9'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 1'
@@ -652,7 +652,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 6'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 7'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 7'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 9'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
@@ -707,11 +707,11 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 0'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 1'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 2'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 3'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 3'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 5'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 6'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 7'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 6'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 7'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 8'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 9'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 1'
@@ -941,7 +941,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 6'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 7'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 7'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 9'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
@@ -995,11 +995,11 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 0'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 1'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 2'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 3'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 3'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 5'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 6'
-      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 7'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 6'
+      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 7'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 8'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 9'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 1'
@@ -1229,7 +1229,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 6'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 7'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 7'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 9'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
