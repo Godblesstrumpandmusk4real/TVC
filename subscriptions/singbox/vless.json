@@ -201,7 +201,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -337,7 +337,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 22",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 23",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 24",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 25",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 26",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 27",
@@ -594,7 +594,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -730,7 +730,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 22",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 23",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 24",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 25",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 26",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 27",
@@ -2991,7 +2991,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -6169,7 +6169,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 24",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
