@@ -482,7 +482,7 @@ proxies:
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 21","type":"vless","server":"public.alpanel.top","port":1403,"udp":true,"uuid":"4c6451ba-6594-4d67-a8ae-4df79815a4e3","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"tuyacn.com","grpc-opts":{"grpc-service-name":"@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam"},"reality-opts":{"public-key":"rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA","short-id":"99"}}
   - {"name":"🇬🇧GB | 🟢 | ss | @kingofilter | 2","type":"ss","server":"85.210.120.237","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🚩CF | 🔴 | vless | @kingofilter | 4","type":"vless","server":"172.67.204.84","port":443,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ipsychO.SUEx12.Ir","ws-opts":{"path":"/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443","headers":{"host":"ipsycho.suex12.ir"}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @kingofilter | 6","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ipsychO.SUEx12.Ir","ws-opts":{"path":"/re5IzbZ9IZZMddtw?ed=2560/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN","headers":{"host":"ipsycho.suex12.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 6","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ipsychO.SUEx12.Ir","ws-opts":{"path":"/re5IzbZ9IZZMddtw?ed=2560/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN","headers":{"host":"ipsycho.suex12.ir"}}}
   - {"name":"🇨🇦CA | 🟢 | ss | @kingofilter | 7","type":"ss","server":"142.4.216.225","port":80,"password":"JIhN6rBKkaEboLNXVSv5rq","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 8","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"redfree8mahsang6.redfree8.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 13","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"eb965440-671d-4903-8909-fa8d0cbdba4e","tls":true,"network":"xhttp","client-fingerprint":"chrome"}
@@ -867,7 +867,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
       - '🇬🇧GB | 🟢 | ss | @kingofilter | 2'
       - '🚩CF | 🔴 | vless | @kingofilter | 4'
-      - '🇨🇦CA | 🔴 | vless | @kingofilter | 6'
+      - '🇺🇸US | 🔴 | vless | @kingofilter | 6'
       - '🇨🇦CA | 🟢 | ss | @kingofilter | 7'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 8'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 13'
@@ -1252,7 +1252,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
       - '🇬🇧GB | 🟢 | ss | @kingofilter | 2'
       - '🚩CF | 🔴 | vless | @kingofilter | 4'
-      - '🇨🇦CA | 🔴 | vless | @kingofilter | 6'
+      - '🇺🇸US | 🔴 | vless | @kingofilter | 6'
       - '🇨🇦CA | 🟢 | ss | @kingofilter | 7'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 8'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 13'
@@ -1636,7 +1636,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
       - '🇬🇧GB | 🟢 | ss | @kingofilter | 2'
       - '🚩CF | 🔴 | vless | @kingofilter | 4'
-      - '🇨🇦CA | 🔴 | vless | @kingofilter | 6'
+      - '🇺🇸US | 🔴 | vless | @kingofilter | 6'
       - '🇨🇦CA | 🟢 | ss | @kingofilter | 7'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 8'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 13'
