@@ -219,8 +219,9 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 0",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 1",
-                "🇮🇷IR | 🔴 | vless | @vpn_xw | 2",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 2",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 5",
@@ -584,8 +585,9 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 0",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 1",
-                "🇮🇷IR | 🔴 | vless | @vpn_xw | 2",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 2",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 5",
@@ -3340,7 +3342,38 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
+            "type": "vless",
+            "server": "185.143.233.120",
+            "server_port": 443,
+            "uuid": "c92348f4-1ebb-4232-b546-c056f3721ffb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mydigipay.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wp-content?ed=2020",
+                "headers": {
+                    "Host": "mydigipay.com"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 2",
             "type": "vless",
             "server": "3982390233.torob.com.tr",
             "server_port": 2182,
@@ -3376,7 +3409,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 2",
+            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
             "type": "vless",
             "server": "185.143.233.120",
             "server_port": 443,
