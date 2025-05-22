@@ -220,7 +220,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 0",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 2",
+                "🇫🇮FI | 🔴 | vless | @vpn_xw | 2",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
@@ -419,7 +419,6 @@
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 2",
                 "🇯🇵JP | 🔴 | vless | @free1_vpn | 8",
                 "🚩CF | 🔴 | vless | @fnet00 | 0",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
@@ -586,7 +585,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 0",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 2",
+                "🇫🇮FI | 🔴 | vless | @vpn_xw | 2",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
@@ -785,7 +784,6 @@
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 2",
                 "🇯🇵JP | 🔴 | vless | @free1_vpn | 8",
                 "🚩CF | 🔴 | vless | @fnet00 | 0",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
@@ -3373,7 +3371,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 2",
+            "tag": "🇫🇮FI | 🔴 | vless | @vpn_xw | 2",
             "type": "vless",
             "server": "3982390233.torob.com.tr",
             "server_port": 2182,
@@ -8424,27 +8422,6 @@
                 "path": "\/iqySBCJZh3v7AmTx?ed=2560",
                 "headers": {
                     "Host": "5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
-            "type": "vless",
-            "server": "162.19.228.119",
-            "server_port": 80,
-            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/http",
-                "headers": {
-                    "Host": "162.19.228.119"
                 }
             }
         },
