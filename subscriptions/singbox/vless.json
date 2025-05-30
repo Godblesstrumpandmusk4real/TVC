@@ -131,9 +131,6 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 37",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
-                "🇺🇸US | 🔴 | vless | @v2_team | 0",
-                "🇺🇸US | 🔴 | vless | @v2_team | 1",
-                "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -357,7 +354,7 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇰🇭KH | 🔴 | vless | @v2ray1_ng | 2",
-                "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 4",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🟢 | vless | @v2ray1_ng | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 11",
@@ -496,9 +493,6 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 37",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
-                "🇺🇸US | 🔴 | vless | @v2_team | 0",
-                "🇺🇸US | 🔴 | vless | @v2_team | 1",
-                "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -722,7 +716,7 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇰🇭KH | 🔴 | vless | @v2ray1_ng | 2",
-                "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 4",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🟢 | vless | @v2ray1_ng | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 11",
@@ -1249,48 +1243,6 @@
             "server": "185.146.173.39",
             "server_port": 8880,
             "uuid": "Parsashonam-238",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 0",
-            "type": "vless",
-            "server": "ns.cloudflare.com",
-            "server_port": 2086,
-            "uuid": "8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 1",
-            "type": "vless",
-            "server": "ns.cloudflare.com",
-            "server_port": 2086,
-            "uuid": "8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2_team | 2",
-            "type": "vless",
-            "server": "94.182.105.30",
-            "server_port": 44062,
-            "uuid": "dea94163-2cb3-466f-b32d-05922f0a02c4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6935,7 +6887,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 4",
+            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 4",
             "type": "vless",
             "server": "fr.lalegan.shop",
             "server_port": 2053,
