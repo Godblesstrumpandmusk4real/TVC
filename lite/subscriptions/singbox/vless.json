@@ -151,8 +151,8 @@
                 "🇫🇮FI | 🔴 | vless | @proxystore11 | 5",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 9",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
@@ -218,8 +218,8 @@
                 "🇫🇮FI | 🔴 | vless | @proxystore11 | 5",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 9",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
@@ -1371,7 +1371,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -1385,7 +1385,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 5",
             "type": "vless",
             "server": "104.16.14.1",
             "server_port": 443,
