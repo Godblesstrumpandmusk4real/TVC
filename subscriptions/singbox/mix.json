@@ -443,8 +443,8 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 13",
                 "❔XX | 🟢 | vless | @DailyV2RY | 264",
                 "❔XX | 🟢 | vless | @DailyV2RY | 265",
-                "❔XX | 🟢 | vless | @DailyV2RY | 266",
-                "❔XX | 🟢 | vless | @DailyV2RY | 267",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
                 "❔XX | 🟢 | vless | @DailyV2RY | 270",
@@ -873,8 +873,8 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 13",
                 "❔XX | 🟢 | vless | @DailyV2RY | 264",
                 "❔XX | 🟢 | vless | @DailyV2RY | 265",
-                "❔XX | 🟢 | vless | @DailyV2RY | 266",
-                "❔XX | 🟢 | vless | @DailyV2RY | 267",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
                 "❔XX | 🟢 | vless | @DailyV2RY | 270",
@@ -8837,7 +8837,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 266",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
             "type": "vless",
             "server": "v18.vxlimir.com",
             "server_port": 1370,
@@ -8866,7 +8866,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 267",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 267",
             "type": "vless",
             "server": "v14.vxlimir.com",
             "server_port": 1370,
