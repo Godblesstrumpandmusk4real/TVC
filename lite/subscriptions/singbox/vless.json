@@ -152,11 +152,12 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
                 "❔XX | 🔴 | vless | @free1_vpn | 8",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
-                "🇨🇿CZ | 🔴 | vless | @Outlinev2rayNG | 7",
-                "🇦🇲AM | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
+                "🇧🇬BG | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇸🇬SG | 🔴 | vless | @FreakConfig | 0",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -220,11 +221,12 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
                 "❔XX | 🔴 | vless | @free1_vpn | 8",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
-                "🇨🇿CZ | 🔴 | vless | @Outlinev2rayNG | 7",
-                "🇦🇲AM | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
+                "🇧🇬BG | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇸🇬SG | 🔴 | vless | @FreakConfig | 0",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -1399,7 +1401,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "public.misvn.ir",
             "server_port": 443,
@@ -1459,9 +1461,9 @@
             }
         },
         {
-            "tag": "🇨🇿CZ | 🔴 | vless | @Outlinev2rayNG | 7",
+            "tag": "🇧🇬BG | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
-            "server": "195.85.23.200",
+            "server": "45.142.120.116",
             "server_port": 8880,
             "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
             "flow": "",
@@ -1473,16 +1475,16 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram@vpnAndroid2",
+                "path": "\/Telegram@ShadowProxy66\/?ed=2560",
                 "headers": {
-                    "Host": "195.85.23.200"
+                    "Host": "45.142.120.116"
                 }
             }
         },
         {
-            "tag": "🇦🇲AM | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
-            "server": "185.162.229.243",
+            "server": "45.159.218.20",
             "server_port": 8880,
             "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
             "flow": "",
@@ -1494,14 +1496,28 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram@ShadowProxy66",
+                "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "185.162.229.243"
+                    "Host": "45.159.218.20"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
+            "tag": "🇸🇬SG | 🔴 | vless | @FreakConfig | 0",
+            "type": "vless",
+            "server": "43.156.217.68",
+            "server_port": 41283,
+            "uuid": "4839e0b9-b275-47ea-81ab-9bfd38bbe7af",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 1",
             "type": "vless",
             "server": "199.232.13.59",
             "server_port": 80,
