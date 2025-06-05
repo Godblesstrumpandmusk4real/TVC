@@ -132,7 +132,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 264",
                 "❔XX | 🟢 | vless | @DailyV2RY | 265",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
+                "❔XX | 🟢 | vless | @DailyV2RY | 266",
                 "❔XX | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
@@ -203,7 +203,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 264",
                 "❔XX | 🟢 | vless | @DailyV2RY | 265",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
+                "❔XX | 🟢 | vless | @DailyV2RY | 266",
                 "❔XX | 🟢 | vless | @DailyV2RY | 267",
                 "❔XX | 🟢 | vless | @DailyV2RY | 268",
                 "❔XX | 🟢 | vless | @DailyV2RY | 269",
@@ -1137,7 +1137,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 266",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 266",
             "type": "vless",
             "server": "v18.vxlimir.com",
             "server_port": 1370,
