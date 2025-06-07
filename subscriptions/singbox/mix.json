@@ -455,13 +455,14 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 259",
                 "❔XX | 🟢 | vless | @DailyV2RY | 260",
                 "❔XX | 🟢 | vless | @DailyV2RY | 261",
-                "❔XX | 🟢 | vless | @DailyV2RY | 262",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 262",
                 "❔XX | 🟢 | vless | @DailyV2RY | 263",
                 "🇨🇭CH | 🟢 | vmess | @v2ray_vpn_ir | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -889,13 +890,14 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 259",
                 "❔XX | 🟢 | vless | @DailyV2RY | 260",
                 "❔XX | 🟢 | vless | @DailyV2RY | 261",
-                "❔XX | 🟢 | vless | @DailyV2RY | 262",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 262",
                 "❔XX | 🟢 | vless | @DailyV2RY | 263",
                 "🇨🇭CH | 🟢 | vmess | @v2ray_vpn_ir | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -9016,7 +9018,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 262",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 262",
             "type": "vless",
             "server": "v25.vxlimir.com",
             "server_port": 1370,
@@ -9203,6 +9205,27 @@
                     "enabled": true,
                     "public_key": "y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk",
                     "short_id": "0570"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+            "type": "vless",
+            "server": "nwarne.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "999ede55-0aaa-4b54-9dad-c2abe0188940",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/de?ed=1048",
+                "headers": {
+                    "Host": "nwarne.fast.hosting-ip.com"
                 }
             }
         },
