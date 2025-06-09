@@ -106,8 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @ipV2Ray | 2",
-                "🇩🇪DE | 🟢 | vless | @ipV2Ray | 5",
+                "❔XX | 🔴 | vless | @ipV2Ray | 3",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 6",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 7",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 8",
@@ -129,11 +128,11 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 280",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 281",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 282",
+                "❔XX | 🟢 | vless | @DailyV2RY | 282",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 283",
-                "❔XX | 🟢 | vless | @DailyV2RY | 284",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 284",
                 "❔XX | 🟢 | vless | @DailyV2RY | 285",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 286",
+                "❔XX | 🟢 | vless | @DailyV2RY | 286",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 287",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 288",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 289",
@@ -141,8 +140,8 @@
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 291",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 292",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 293",
-                "❔XX | 🟢 | vless | @DailyV2RY | 294",
-                "❔XX | 🟢 | vless | @DailyV2RY | 295",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 294",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 295",
                 "🇫🇷FR | 🟢 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
@@ -176,8 +175,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @ipV2Ray | 2",
-                "🇩🇪DE | 🟢 | vless | @ipV2Ray | 5",
+                "❔XX | 🔴 | vless | @ipV2Ray | 3",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 6",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 7",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 8",
@@ -199,11 +197,11 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 280",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 281",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 282",
+                "❔XX | 🟢 | vless | @DailyV2RY | 282",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 283",
-                "❔XX | 🟢 | vless | @DailyV2RY | 284",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 284",
                 "❔XX | 🟢 | vless | @DailyV2RY | 285",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 286",
+                "❔XX | 🟢 | vless | @DailyV2RY | 286",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 287",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 288",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 289",
@@ -211,8 +209,8 @@
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 291",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 292",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 293",
-                "❔XX | 🟢 | vless | @DailyV2RY | 294",
-                "❔XX | 🟢 | vless | @DailyV2RY | 295",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 294",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 295",
                 "🇫🇷FR | 🟢 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
@@ -262,7 +260,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ipV2Ray | 2",
+            "tag": "❔XX | 🔴 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "www.speedtest-divar.ir",
             "server_port": 443,
@@ -298,7 +296,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 5",
+            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 6",
             "type": "vless",
             "server": "95.164.16.166",
             "server_port": 2087,
@@ -334,7 +332,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 6",
+            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 7",
             "type": "vless",
             "server": "95.164.16.166",
             "server_port": 2087,
@@ -370,7 +368,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 7",
+            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "95.164.16.166",
             "server_port": 3567,
@@ -395,42 +393,6 @@
                     "enabled": true,
                     "public_key": "UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00",
                     "short_id": "34f2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 8",
-            "type": "vless",
-            "server": "95.164.16.166",
-            "server_port": 3567,
-            "uuid": "9fdef857-437d-40af-82ca-2c76de893eb6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "maps.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3iP1kIE9A4r0dbC6OoERB95RKv6tZmCHUaNq4tf90lo",
-                    "short_id": "86"
                 }
             },
             "transport": {
@@ -999,7 +961,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 282",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 282",
             "type": "vless",
             "server": "v21.vxlimir.com",
             "server_port": 1370,
@@ -1057,7 +1019,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 284",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 284",
             "type": "vless",
             "server": "v11.vxlimir.com",
             "server_port": 1370,
@@ -1115,7 +1077,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 286",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 286",
             "type": "vless",
             "server": "v09.vxlimir.com",
             "server_port": 1370,
@@ -1347,7 +1309,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 294",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 294",
             "type": "vless",
             "server": "v01.vxlimir.com",
             "server_port": 1370,
@@ -1376,7 +1338,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 295",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 295",
             "type": "vless",
             "server": "v27.vxlimir.com",
             "server_port": 1370,
