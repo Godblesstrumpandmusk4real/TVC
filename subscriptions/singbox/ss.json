@@ -114,7 +114,7 @@
                 "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 9",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 13",
                 "🇻🇳VN | 🟢 | ss | @DeamNet_Proxy | 14",
-                "🚩CF | 🟢 | ss | @DeamNet_Proxy | 15",
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 15",
                 "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 16",
                 "🇺🇸US | 🟢 | ss | @VmessProtocol | 5",
                 "🇺🇸US | 🟢 | ss | @VmessProtocol | 7",
@@ -136,7 +136,7 @@
                 "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 9",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 13",
                 "🇻🇳VN | 🟢 | ss | @DeamNet_Proxy | 14",
-                "🚩CF | 🟢 | ss | @DeamNet_Proxy | 15",
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 15",
                 "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 16",
                 "🇺🇸US | 🟢 | ss | @VmessProtocol | 5",
                 "🇺🇸US | 🟢 | ss | @VmessProtocol | 7",
@@ -246,7 +246,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🚩CF | 🟢 | ss | @DeamNet_Proxy | 15",
+            "tag": "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 15",
             "type": "shadowsocks",
             "server": "mx2.drawnrisha.one",
             "server_port": 55988,
