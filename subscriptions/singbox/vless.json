@@ -400,7 +400,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
-                "🚩CF | 🔴 | vless | @free1_vpn | 7",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 12",
                 "🚩CF | 🔴 | vless | @fnet00 | 0",
@@ -759,7 +759,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
-                "🚩CF | 🔴 | vless | @free1_vpn | 7",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 12",
                 "🚩CF | 🔴 | vless | @fnet00 | 0",
@@ -7756,7 +7756,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @free1_vpn | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
             "type": "vless",
             "server": "172.67.153.156",
             "server_port": 8443,
