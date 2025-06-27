@@ -132,7 +132,7 @@
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 13",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 5",
@@ -154,7 +154,8 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 29",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 2",
-                "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
+                "🇮🇹IT | 🔴 | vless | @proxystore11 | 7",
+                "🇮🇷IR | 🔴 | vless | @proxystore11 | 8",
                 "🇸🇬SG | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -204,7 +205,7 @@
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 13",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 5",
@@ -226,7 +227,8 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 29",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 2",
-                "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
+                "🇮🇹IT | 🔴 | vless | @proxystore11 | 7",
+                "🇮🇷IR | 🔴 | vless | @proxystore11 | 8",
                 "🇸🇬SG | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -841,7 +843,7 @@
             }
         },
         {
-            "tag": "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 13",
             "type": "vless",
             "server": "cdnf.ten10rocket.top",
             "server_port": 80,
@@ -1355,7 +1357,21 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
+            "tag": "🇮🇹IT | 🔴 | vless | @proxystore11 | 7",
+            "type": "vless",
+            "server": "ipfast.maketunnelim.lat",
+            "server_port": 80,
+            "uuid": "ec2c4dfe-7df7-4200-a330-c48b4b9e3b3b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @proxystore11 | 8",
             "type": "vless",
             "server": "m5.deepmusic.com.tr",
             "server_port": 41376,
