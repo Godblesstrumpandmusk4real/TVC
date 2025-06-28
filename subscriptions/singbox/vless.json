@@ -211,7 +211,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇦🇪AE | 🔴 | vless | @V2rayNGn | 0",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 1",
+                "❔XX | 🔴 | vless | @V2rayNGn | 1",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 2",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 3",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 4",
@@ -287,7 +287,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 19",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 22",
+                "🇮🇹IT | 🔴 | vless | @v2ray_swhil | 22",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 23",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 25",
@@ -380,7 +380,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇮🇹IT | 🔴 | vless | @GozargahVPN | 0",
+                "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ]
         },
@@ -493,7 +493,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇦🇪AE | 🔴 | vless | @V2rayNGn | 0",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 1",
+                "❔XX | 🔴 | vless | @V2rayNGn | 1",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 2",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 3",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 4",
@@ -569,7 +569,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 19",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 22",
+                "🇮🇹IT | 🔴 | vless | @v2ray_swhil | 22",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 23",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 25",
@@ -662,7 +662,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇮🇹IT | 🔴 | vless | @GozargahVPN | 0",
+                "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -3229,7 +3229,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 1",
+            "tag": "❔XX | 🔴 | vless | @V2rayNGn | 1",
             "type": "vless",
             "server": "arvancloud.ir.telewebion.com.127.0.0.1.ir.manageit.ir.cloud.washop.ir",
             "server_port": 80,
@@ -4770,7 +4770,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 22",
+            "tag": "🇮🇹IT | 🔴 | vless | @v2ray_swhil | 22",
             "type": "vless",
             "server": "Arv2ray.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -7383,7 +7383,7 @@
             }
         },
         {
-            "tag": "🇮🇹IT | 🔴 | vless | @GozargahVPN | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
             "type": "vless",
             "server": "GozargahVPN.fastly80-3.hosting-ip.com",
             "server_port": 80,
