@@ -130,7 +130,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 3","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"d78628e8-5b51-4452-b3ce-79f3249b5755","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048","headers":{"host":"www.speedtest.net.1.developsp.ir.gebados.ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 4","type":"vless","server":"hajlab.ucdavis.edu","port":80,"udp":false,"uuid":"a5c6d1da-cac5-4f56-acfa-dd7b5a8925fa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048","headers":{"host":"blackseeseeeeee.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 8","type":"vless","server":"SvnTeam.fast.hosting-ip.com","port":80,"udp":false,"uuid":"b4492a2f-1f9f-45e8-b176-91d13b9e3aa9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@SvnProBot?ed=2560","headers":{"host":"shad.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 9","type":"vless","server":"record.persianmizban.com","port":443,"udp":false,"uuid":"260cc7e4-1e11-44e8-81fd-b162fbb1c83e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"lgoin.persianmizban.com","ws-opts":{"path":"/","headers":{"host":"lgoin.persianmizban.com"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @V2pedia | 9","type":"vless","server":"record.persianmizban.com","port":443,"udp":false,"uuid":"260cc7e4-1e11-44e8-81fd-b162fbb1c83e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"lgoin.persianmizban.com","ws-opts":{"path":"/","headers":{"host":"lgoin.persianmizban.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 18","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"2e56a2e4-d8ac-4990-843c-d813e889fcbd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 19","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"a85962e7-4c37-477a-a16a-892bbeea60ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @vpn_xw | 0","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"7c9e3c1d-a360-4429-9189-e45a98de7fde","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram@V2ray_Alpha/?ed=2560","headers":{"host":"mail.ski1plag.ir"}}}
@@ -193,7 +193,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 3'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 8'
-      - '🇺🇸US | 🔴 | vless | @V2pedia | 9'
+      - '🇨🇦CA | 🔴 | vless | @V2pedia | 9'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 18'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 19'
       - '🇺🇸US | 🔴 | vless | @vpn_xw | 0'
@@ -256,7 +256,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 3'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 8'
-      - '🇺🇸US | 🔴 | vless | @V2pedia | 9'
+      - '🇨🇦CA | 🔴 | vless | @V2pedia | 9'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 18'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 19'
       - '🇺🇸US | 🔴 | vless | @vpn_xw | 0'
@@ -318,7 +318,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 3'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 8'
-      - '🇺🇸US | 🔴 | vless | @V2pedia | 9'
+      - '🇨🇦CA | 🔴 | vless | @V2pedia | 9'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 18'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 19'
       - '🇺🇸US | 🔴 | vless | @vpn_xw | 0'
