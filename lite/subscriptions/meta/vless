@@ -180,7 +180,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"6f690965-3be3-43bb-9331-3ead6efb20aa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"sib.sibzamini.dpdns.org"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10","type":"vless","server":"141.101.121.55","port":8080,"udp":false,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"1750293123492.china.baidu.bilibili.china.aeko.cn"}}}
   - {"name":"🇫🇷FR | 🔴 | vless | @Capoit | 9","type":"vless","server":"safar64.ucpubg.org","port":8080,"udp":false,"uuid":"c83a4cdf-d744-43c4-866a-f85957050391","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @Capoit | 10","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"92f481b6-ad92-43e4-a683-2bb0aeaa9846","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2590","headers":{"host":"dw.alibichareh.dpdns.org"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 10","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"92f481b6-ad92-43e4-a683-2bb0aeaa9846","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2590","headers":{"host":"dw.alibichareh.dpdns.org"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @FreakConfig | 3","type":"vless","server":"84.47.233.110","port":59761,"udp":false,"uuid":"ae9539b5-70dd-41b5-9666-11a29559a840","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 8","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"62dcd14e-5828-4a02-a888-b67a91c3e488","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 9","type":"vless","server":"icg7ht.smrfy.online","port":17086,"udp":false,"uuid":"e6c73ce7-0534-47a7-b01b-b6239c1d70c5","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -260,7 +260,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10'
       - '🇫🇷FR | 🔴 | vless | @Capoit | 9'
-      - '🇨🇦CA | 🔴 | vless | @Capoit | 10'
+      - '🇺🇸US | 🔴 | vless | @Capoit | 10'
       - '🇮🇷IR | 🔴 | vless | @FreakConfig | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 9'
@@ -340,7 +340,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10'
       - '🇫🇷FR | 🔴 | vless | @Capoit | 9'
-      - '🇨🇦CA | 🔴 | vless | @Capoit | 10'
+      - '🇺🇸US | 🔴 | vless | @Capoit | 10'
       - '🇮🇷IR | 🔴 | vless | @FreakConfig | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 9'
@@ -419,7 +419,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10'
       - '🇫🇷FR | 🔴 | vless | @Capoit | 9'
-      - '🇨🇦CA | 🔴 | vless | @Capoit | 10'
+      - '🇺🇸US | 🔴 | vless | @Capoit | 10'
       - '🇮🇷IR | 🔴 | vless | @FreakConfig | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 9'
