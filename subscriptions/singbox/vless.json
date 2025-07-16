@@ -177,7 +177,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🚩CF | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 2",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 3",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 6",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
@@ -538,7 +538,7 @@
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 173",
                 "🇻🇳VN | 🔴 | vless | @SafeNet_Server | 0",
                 "🇩🇪DE | 🔴 | vless | @SafeNet_Server | 1",
-                "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
+                "🇨🇦CA | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
@@ -732,7 +732,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🚩CF | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 2",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 3",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 6",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
@@ -1093,7 +1093,7 @@
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 173",
                 "🇻🇳VN | 🔴 | vless | @SafeNet_Server | 0",
                 "🇩🇪DE | 🔴 | vless | @SafeNet_Server | 1",
-                "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
+                "🇨🇦CA | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
@@ -2936,7 +2936,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 2",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -10942,7 +10942,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @SafeNet_Server | 2",
             "type": "vless",
             "server": "mtn.ivy-net.ir",
             "server_port": 80,
