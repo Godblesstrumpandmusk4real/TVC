@@ -380,8 +380,9 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
-                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 0",
                 "🚩CF | 🔴 | vless | @UnlimitedDev | 2",
+                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 3",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 5",
                 "🚩CF | 🔴 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 2",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 3",
@@ -924,8 +925,9 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
-                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 0",
                 "🚩CF | 🔴 | vless | @UnlimitedDev | 2",
+                "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 3",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 5",
                 "🚩CF | 🔴 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 2",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 3",
@@ -7216,7 +7218,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 0",
+            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 2",
+            "type": "vless",
+            "server": "104.21.112.1",
+            "server_port": 8080,
+            "uuid": "17034eef-9472-45cc-bca5-a71f90e36244",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480",
+                "headers": {
+                    "Host": "104.21.112.1"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @UnlimitedDev | 3",
             "type": "vless",
             "server": "91.99.144.152",
             "server_port": 443,
@@ -7230,7 +7253,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 2",
+            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 5",
             "type": "vless",
             "server": "188.114.97.1",
             "server_port": 443,
